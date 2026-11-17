@@ -1,0 +1,1123 @@
+PRIM_STATE,OCC_TITLE,H_MEDIAN,H_PCT10,H_PCT25,H_PCT75,H_PCT90,JOBS_1000
+AK,Architecture and Engineering,51.12,32.02,39.73,65.42,83.81,19.931
+AK,"Arts, Design, Entertainment, Sports, and Media",25.86,17.85,20.69,36.73,49.78,9.819
+AK,Building and Grounds Cleaning and Maintenance,19.48,14.4,17.41,23.38,28.16,29.677
+AK,Business and Financial Operations,40.01,24.69,31.44,52.24,63.81,45.421
+AK,Community and Social Service,30.27,20.89,23.78,39.53,48.38,22.75
+AK,Computer and Mathematical,44.09,27.0,32.44,53.04,64.83,16.896
+AK,Construction and Extraction,36.36,22.92,28.92,47.45,58.88,66.622
+AK,Educational Instruction and Library,36.1,16.87,23.5,40.29,47.18,60.446
+AK,"Farming, Fishing, and Forestry",24.75,14.64,18.22,30.41,36.48,1.048
+AK,Food Preparation and Serving Related,17.12,12.19,14.0,21.01,25.92,84.762
+AK,Healthcare Practitioners and Technical,50.77,24.83,37.26,64.55,98.1,66.045
+AK,Healthcare Support,21.79,17.18,18.82,25.9,30.15,42.369
+AK,"Installation, Maintenance, and Repair",35.95,20.5,26.13,46.01,53.75,59.218
+AK,Legal,51.23,28.74,34.16,76.9,103.95,6.831
+AK,"Life, Physical, and Social Science",41.53,25.0,31.36,52.33,65.72,21.297
+AK,Management,57.81,34.77,45.01,74.8,97.21,81.5
+AK,Office and Administrative Support,25.26,18.0,21.56,30.64,37.64,121.82
+AK,Personal Care and Service,19.9,14.6,17.08,23.42,29.01,26.007
+AK,Production,26.31,17.21,18.37,40.24,56.61,28.474
+AK,Protective Service,33.22,17.62,22.41,42.71,58.7,26.145
+AK,Sales and Related,18.78,15.0,17.1,26.72,37.01,69.189
+AK,Transportation and Material Moving,24.11,17.32,19.38,35.46,49.52,93.733
+AL,Architecture and Engineering,48.07,26.45,36.65,64.02,82.34,23.458
+AL,"Arts, Design, Entertainment, Sports, and Media",23.63,12.8,17.41,33.65,47.44,8.582
+AL,Building and Grounds Cleaning and Maintenance,15.5,11.48,13.51,18.09,22.63,25.306
+AL,Business and Financial Operations,36.73,21.83,27.74,49.03,64.12,51.169
+AL,Community and Social Service,23.57,16.19,19.05,30.84,37.24,11.643
+AL,Computer and Mathematical,48.09,24.16,33.19,63.4,79.6,27.142
+AL,Construction and Extraction,22.99,14.93,18.19,29.12,36.57,42.309
+AL,Educational Instruction and Library,27.25,11.09,14.43,31.14,37.48,53.759
+AL,"Farming, Fishing, and Forestry",18.15,13.57,15.12,23.71,30.09,2.963
+AL,Food Preparation and Serving Related,13.35,9.97,10.86,15.98,18.48,87.357
+AL,Healthcare Practitioners and Technical,32.39,18.26,24.3,44.11,64.37,68.745
+AL,Healthcare Support,16.25,12.31,13.79,17.99,22.21,35.642
+AL,"Installation, Maintenance, and Repair",27.18,17.11,20.7,35.36,44.91,51.13
+AL,Legal,35.33,17.98,23.14,63.25,98.9,6.674
+AL,"Life, Physical, and Social Science",35.61,21.79,26.73,46.98,61.55,6.894
+AL,Management,49.99,27.37,37.11,72.94,100.05,53.443
+AL,Office and Administrative Support,19.45,13.85,16.57,24.23,30.47,107.241
+AL,Personal Care and Service,13.73,9.75,10.82,17.36,23.41,17.502
+AL,Production,21.27,13.99,17.21,27.84,35.91,101.925
+AL,Protective Service,21.37,13.33,16.56,29.01,37.28,23.028
+AL,Sales and Related,16.83,10.94,13.53,24.12,38.42,95.682
+AL,Transportation and Material Moving,18.38,12.19,14.85,23.66,31.32,98.405
+AR,Architecture and Engineering,37.35,21.6,28.65,49.23,63.39,10.16
+AR,"Arts, Design, Entertainment, Sports, and Media",21.26,13.28,16.46,29.96,42.65,8.833
+AR,Building and Grounds Cleaning and Maintenance,14.7,12.08,13.28,17.55,21.51,28.872
+AR,Business and Financial Operations,31.3,18.72,23.56,44.5,61.89,52.986
+AR,Community and Social Service,22.46,14.69,18.05,29.1,37.21,12.257
+AR,Computer and Mathematical,40.6,19.83,28.45,55.17,66.23,21.42
+AR,Construction and Extraction,22.05,16.06,17.98,27.35,33.17,40.775
+AR,Educational Instruction and Library,24.85,13.11,17.07,29.43,36.42,56.968
+AR,"Farming, Fishing, and Forestry",17.68,13.94,15.79,21.68,27.82,4.059
+AR,Food Preparation and Serving Related,13.27,11.23,11.63,15.11,18.07,85.86
+AR,Healthcare Practitioners and Technical,36.09,18.5,25.91,47.25,66.99,70.698
+AR,Healthcare Support,15.01,12.45,13.44,17.71,21.71,40.563
+AR,"Installation, Maintenance, and Repair",23.85,15.64,18.58,30.69,38.85,47.863
+AR,Legal,34.33,18.55,22.59,52.35,79.35,5.075
+AR,"Life, Physical, and Social Science",30.2,19.52,23.33,40.38,54.77,5.984
+AR,Management,40.77,20.15,27.99,61.78,88.85,72.924
+AR,Office and Administrative Support,18.99,13.84,16.32,23.6,30.12,117.413
+AR,Personal Care and Service,14.06,11.53,12.9,17.2,23.49,14.942
+AR,Production,19.77,14.73,17.28,24.18,31.06,89.089
+AR,Protective Service,20.84,14.08,16.96,26.69,34.09,22.138
+AR,Sales and Related,15.39,11.5,13.24,22.26,35.46,88.04
+AR,Transportation and Material Moving,18.58,13.85,15.95,23.93,32.55,103.083
+AZ,Architecture and Engineering,46.62,28.66,36.63,60.98,79.52,16.401
+AZ,"Arts, Design, Entertainment, Sports, and Media",27.26,17.18,20.65,37.97,51.19,10.258
+AZ,Building and Grounds Cleaning and Maintenance,18.06,15.39,16.9,20.81,23.56,28.365
+AZ,Business and Financial Operations,37.46,22.96,29.07,49.22,64.28,68.969
+AZ,Community and Social Service,25.33,18.65,21.71,31.68,40.01,15.296
+AZ,Computer and Mathematical,49.73,26.61,36.26,64.9,81.55,32.759
+AZ,Construction and Extraction,27.9,18.75,22.58,33.97,39.85,53.853
+AZ,Educational Instruction and Library,24.5,16.63,18.69,33.85,45.99,46.772
+AZ,"Farming, Fishing, and Forestry",16.95,14.8,15.24,17.53,21.57,2.925
+AZ,Food Preparation and Serving Related,17.4,14.83,15.97,21.6,29.64,86.963
+AZ,Healthcare Practitioners and Technical,44.47,22.23,30.27,59.28,83.13,64.948
+AZ,Healthcare Support,18.57,15.35,17.25,22.13,26.38,45.355
+AZ,"Installation, Maintenance, and Repair",27.54,17.78,21.48,36.03,43.62,43.485
+AZ,Legal,46.15,23.16,29.63,65.23,98.21,7.148
+AZ,"Life, Physical, and Social Science",38.52,24.03,29.78,50.77,64.01,7.26
+AZ,Management,51.8,26.12,36.75,77.73,103.99,79.13
+AZ,Office and Administrative Support,22.69,17.02,18.86,27.98,34.59,124.321
+AZ,Personal Care and Service,17.69,14.91,16.04,22.42,29.71,21.133
+AZ,Production,22.71,17.47,18.85,28.66,36.27,39.315
+AZ,Protective Service,24.43,16.59,18.36,34.75,46.95,27.544
+AZ,Sales and Related,18.43,15.02,16.61,28.83,45.41,93.913
+AZ,Transportation and Material Moving,21.61,15.96,17.69,26.9,33.84,83.886
+CA,Architecture and Engineering,59.62,32.71,42.86,78.28,99.01,17.986
+CA,"Arts, Design, Entertainment, Sports, and Media",38.23,19.61,24.68,60.67,88.7,18.57
+CA,Building and Grounds Cleaning and Maintenance,21.28,17.27,18.05,24.45,30.51,27.957
+CA,Business and Financial Operations,46.21,25.89,34.47,62.05,80.82,69.454
+CA,Community and Social Service,30.09,21.11,23.55,44.18,59.01,22.349
+CA,Computer and Mathematical,66.67,34.02,48.06,90.66,107.65,39.406
+CA,Construction and Extraction,34.46,22.21,26.62,46.04,60.61,36.937
+CA,Educational Instruction and Library,33.26,18.77,22.97,49.34,62.32,59.708
+CA,"Farming, Fishing, and Forestry",17.25,16.5,16.64,19.72,23.54,11.409
+CA,Food Preparation and Serving Related,19.35,16.77,17.5,22.08,26.91,89.107
+CA,Healthcare Practitioners and Technical,59.29,26.91,38.24,80.0,103.89,54.385
+CA,Healthcare Support,17.28,16.5,16.5,21.97,27.82,75.428
+CA,"Installation, Maintenance, and Repair",31.09,19.62,23.51,40.05,51.11,29.98
+CA,Legal,62.28,28.93,38.67,103.28,159.94,8.695
+CA,"Life, Physical, and Social Science",48.9,24.86,34.04,65.93,83.76,11.349
+CA,Management,68.86,32.63,46.15,101.28,144.31,73.038
+CA,Office and Administrative Support,26.39,18.45,21.8,32.87,39.77,103.139
+CA,Personal Care and Service,18.99,16.84,17.55,23.31,30.67,22.411
+CA,Production,23.01,17.62,19.11,29.61,38.59,40.889
+CA,Protective Service,24.86,17.55,18.98,47.2,61.26,25.358
+CA,Sales and Related,21.83,17.11,17.86,31.91,51.35,79.867
+CA,Transportation and Material Moving,22.04,17.38,18.56,27.84,35.66,82.579
+CO,Architecture and Engineering,49.66,29.7,38.41,65.72,83.34,25.399
+CO,"Arts, Design, Entertainment, Sports, and Media",31.64,18.34,22.99,44.73,60.67,14.297
+CO,Building and Grounds Cleaning and Maintenance,20.28,16.75,18.0,23.15,28.94,30.838
+CO,Business and Financial Operations,44.91,26.24,33.3,59.92,77.05,91.897
+CO,Community and Social Service,29.4,21.01,23.53,37.52,46.6,19.754
+CO,Computer and Mathematical,61.58,32.0,44.11,77.72,94.72,47.327
+CO,Construction and Extraction,29.42,21.52,23.65,37.0,46.25,47.118
+CO,Educational Instruction and Library,29.89,17.11,22.41,39.04,49.65,54.087
+CO,"Farming, Fishing, and Forestry",19.32,16.06,17.15,24.25,31.14,1.811
+CO,Food Preparation and Serving Related,18.18,14.97,16.73,22.43,29.93,93.888
+CO,Healthcare Practitioners and Technical,47.13,23.97,35.53,58.92,80.16,53.835
+CO,Healthcare Support,21.42,17.53,18.43,23.61,28.29,37.084
+CO,"Installation, Maintenance, and Repair",30.08,20.23,23.54,38.36,48.14,39.43
+CO,Legal,57.46,29.58,38.02,94.72,151.82,9.304
+CO,"Life, Physical, and Social Science",40.85,25.11,31.38,57.92,76.7,12.504
+CO,Management,72.0,37.8,50.65,98.46,132.73,54.927
+CO,Office and Administrative Support,24.54,18.02,21.36,30.41,38.13,104.849
+CO,Personal Care and Service,19.44,15.26,17.18,23.99,32.27,27.015
+CO,Production,23.9,18.06,20.99,29.83,38.96,32.765
+CO,Protective Service,27.37,17.46,20.42,39.93,51.26,22.956
+CO,Sales and Related,22.81,16.6,17.93,37.12,58.85,103.087
+CO,Transportation and Material Moving,22.63,17.6,19.51,28.73,37.5,75.828
+CT,Architecture and Engineering,49.1,31.86,39.5,62.34,75.95,21.104
+CT,"Arts, Design, Entertainment, Sports, and Media",33.02,18.26,23.37,47.71,66.55,13.369
+CT,Building and Grounds Cleaning and Maintenance,19.05,16.69,17.31,23.43,29.08,32.08
+CT,Business and Financial Operations,45.43,26.93,34.7,60.57,77.74,62.759
+CT,Community and Social Service,29.18,18.56,22.14,38.7,48.87,21.861
+CT,Computer and Mathematical,52.22,29.36,38.87,68.23,84.57,28.424
+CT,Construction and Extraction,34.44,22.07,26.03,41.49,49.47,30.183
+CT,Educational Instruction and Library,31.96,17.57,22.36,47.68,57.3,74.921
+CT,"Farming, Fishing, and Forestry",18.1,16.35,16.39,23.76,29.85,0.432
+CT,Food Preparation and Serving Related,17.6,16.35,16.77,21.58,28.66,81.962
+CT,Healthcare Practitioners and Technical,48.0,25.1,36.58,60.38,80.54,69.995
+CT,Healthcare Support,20.83,16.81,18.1,22.4,27.07,56.671
+CT,"Installation, Maintenance, and Repair",31.23,19.81,23.48,39.66,49.39,32.317
+CT,Legal,48.54,25.67,31.23,81.07,131.97,9.17
+CT,"Life, Physical, and Social Science",47.18,29.04,35.82,62.09,79.07,7.632
+CT,Management,70.01,36.41,49.42,97.52,138.33,87.634
+CT,Office and Administrative Support,25.77,17.97,21.45,32.22,39.87,114.331
+CT,Personal Care and Service,17.85,16.35,16.8,22.51,30.5,27.731
+CT,Production,23.72,17.33,18.87,31.63,41.87,49.244
+CT,Protective Service,29.35,17.04,18.67,40.06,48.32,22.632
+CT,Sales and Related,19.02,16.55,17.11,30.51,48.74,79.396
+CT,Transportation and Material Moving,21.32,16.84,18.03,27.22,33.88,76.154
+DC,Architecture and Engineering,60.41,37.27,48.27,79.82,93.84,16.798
+DC,"Arts, Design, Entertainment, Sports, and Media",48.92,28.58,37.21,64.91,85.7,48.392
+DC,Building and Grounds Cleaning and Maintenance,18.96,17.96,18.32,21.73,26.58,32.248
+DC,Business and Financial Operations,52.88,31.19,39.81,67.63,85.95,157.532
+DC,Community and Social Service,33.24,23.1,27.73,46.33,55.53,16.181
+DC,Computer and Mathematical,63.95,37.9,48.57,81.53,97.79,61.338
+DC,Construction and Extraction,33.71,21.85,25.77,40.57,56.15,18.192
+DC,Educational Instruction and Library,38.41,22.47,29.0,49.87,63.37,46.711
+DC,"Farming, Fishing, and Forestry",34.13,17.67,26.36,38.14,38.14,0.166
+DC,Food Preparation and Serving Related,21.34,17.5,18.19,25.56,36.82,81.167
+DC,Healthcare Practitioners and Technical,48.27,23.41,37.23,62.36,84.87,42.437
+DC,Healthcare Support,20.7,18.46,19.33,23.4,28.62,29.84
+DC,"Installation, Maintenance, and Repair",34.62,22.41,26.2,40.05,48.26,15.301
+DC,Legal,93.84,39.76,59.9,140.59,184.08,59.409
+DC,"Life, Physical, and Social Science",61.83,31.41,44.73,79.92,93.84,25.35
+DC,Management,81.72,46.68,63.04,97.4,140.26,150.437
+DC,Office and Administrative Support,29.16,19.39,22.81,37.35,46.78,76.871
+DC,Personal Care and Service,19.4,17.83,18.24,25.0,36.42,16.692
+DC,Production,28.72,18.63,21.36,44.24,53.52,7.103
+DC,Protective Service,35.56,17.89,27.2,44.58,63.59,42.272
+DC,Sales and Related,22.53,17.91,18.49,34.43,58.59,29.217
+DC,Transportation and Material Moving,23.78,17.86,19.02,33.67,40.25,26.346
+DE,Architecture and Engineering,48.04,27.74,36.42,61.84,72.99,11.519
+DE,"Arts, Design, Entertainment, Sports, and Media",28.81,16.07,20.35,38.42,51.07,8.323
+DE,Building and Grounds Cleaning and Maintenance,17.51,15.0,15.59,20.93,23.73,34.755
+DE,Business and Financial Operations,44.91,26.64,34.05,59.63,75.73,79.981
+DE,Community and Social Service,28.18,18.73,22.57,36.31,43.78,18.757
+DE,Computer and Mathematical,54.62,29.1,38.64,71.73,82.22,29.886
+DE,Construction and Extraction,28.54,17.83,22.18,36.93,46.34,38.463
+DE,Educational Instruction and Library,29.65,16.76,21.11,38.91,46.86,58.732
+DE,"Farming, Fishing, and Forestry",19.16,15.0,16.63,22.2,29.18,1.796
+DE,Food Preparation and Serving Related,17.17,15.0,15.0,20.78,24.08,94.81
+DE,Healthcare Practitioners and Technical,46.77,23.23,35.9,58.36,82.13,74.678
+DE,Healthcare Support,18.2,15.0,16.11,21.54,24.33,49.558
+DE,"Installation, Maintenance, and Repair",29.56,18.85,23.14,37.62,46.8,33.625
+DE,Legal,47.55,26.22,30.35,83.44,111.16,12.688
+DE,"Life, Physical, and Social Science",40.47,24.89,31.4,55.07,67.22,12.68
+DE,Management,71.23,35.85,50.81,98.99,142.98,51.619
+DE,Office and Administrative Support,23.24,16.48,18.85,29.25,37.05,125.461
+DE,Personal Care and Service,16.6,15.0,15.0,20.61,29.02,23.232
+DE,Production,19.16,16.5,17.22,28.06,36.92,39.26
+DE,Protective Service,24.78,16.41,17.54,37.92,49.29,21.548
+DE,Sales and Related,18.04,15.0,16.07,27.6,44.6,90.606
+DE,Transportation and Material Moving,22.21,15.17,17.83,28.24,31.05,88.021
+FL,Architecture and Engineering,42.74,24.13,31.85,59.98,75.69,12.806
+FL,"Arts, Design, Entertainment, Sports, and Media",26.51,15.38,18.7,38.11,51.51,14.085
+FL,Building and Grounds Cleaning and Maintenance,17.31,14.07,14.93,19.24,23.12,34.818
+FL,Business and Financial Operations,37.74,22.14,28.55,49.87,65.56,71.672
+FL,Community and Social Service,24.65,17.66,21.28,30.95,38.92,13.447
+FL,Computer and Mathematical,48.62,24.06,33.71,64.15,81.14,30.316
+FL,Construction and Extraction,23.73,17.56,20.56,29.68,38.4,46.532
+FL,Educational Instruction and Library,25.62,15.13,18.17,30.17,37.72,45.184
+FL,"Farming, Fishing, and Forestry",16.23,13.29,14.19,19.02,24.31,1.435
+FL,Food Preparation and Serving Related,16.64,13.34,13.93,18.73,24.8,101.783
+FL,Healthcare Practitioners and Technical,39.13,20.63,29.17,50.38,76.43,67.265
+FL,Healthcare Support,18.17,15.17,16.81,22.1,26.12,34.53
+FL,"Installation, Maintenance, and Repair",24.84,17.26,20.58,32.54,40.64,41.882
+FL,Legal,39.35,22.64,28.92,73.79,102.24,10.991
+FL,"Life, Physical, and Social Science",36.22,20.37,25.27,48.99,66.38,5.588
+FL,Management,52.07,26.49,36.88,80.05,110.55,74.491
+FL,Office and Administrative Support,21.83,15.66,17.94,27.0,33.94,126.887
+FL,Personal Care and Service,16.13,13.4,14.12,20.11,28.38,21.144
+FL,Production,21.05,14.66,17.25,25.64,33.45,30.541
+FL,Protective Service,22.66,15.03,17.31,33.65,46.0,26.657
+FL,Sales and Related,17.94,13.75,14.76,28.26,44.63,106.262
+FL,Transportation and Material Moving,19.34,14.03,16.6,23.76,31.17,81.685
+GA,Architecture and Engineering,42.66,23.92,32.83,59.18,76.88,13.654
+GA,"Arts, Design, Entertainment, Sports, and Media",29.17,14.97,19.69,41.6,60.67,11.785
+GA,Building and Grounds Cleaning and Maintenance,17.19,12.78,14.31,19.63,23.21,24.638
+GA,Business and Financial Operations,38.11,22.15,28.85,51.49,69.65,79.668
+GA,Community and Social Service,27.25,17.12,21.5,35.89,46.54,12.212
+GA,Computer and Mathematical,50.34,25.6,36.68,66.01,81.48,34.898
+GA,Construction and Extraction,23.94,16.87,19.21,31.18,40.14,31.799
+GA,Educational Instruction and Library,29.37,12.71,18.38,37.42,47.0,57.244
+GA,"Farming, Fishing, and Forestry",17.9,13.15,15.37,22.38,30.68,1.835
+GA,Food Preparation and Serving Related,13.85,8.39,10.8,17.61,21.5,89.514
+GA,Healthcare Practitioners and Technical,40.19,21.41,29.66,53.77,77.77,62.485
+GA,Healthcare Support,17.83,13.02,14.61,21.58,23.92,32.732
+GA,"Installation, Maintenance, and Repair",27.81,17.41,21.63,35.46,43.78,42.237
+GA,Legal,43.35,23.34,28.3,73.97,111.98,8.745
+GA,"Life, Physical, and Social Science",37.85,22.45,26.8,51.18,66.32,6.802
+GA,Management,59.12,27.73,38.94,82.39,111.01,67.286
+GA,Office and Administrative Support,21.63,14.38,17.55,27.13,34.05,114.79
+GA,Personal Care and Service,14.68,10.41,12.24,19.38,26.75,17.974
+GA,Production,20.8,14.89,17.58,25.13,32.08,63.059
+GA,Protective Service,22.25,14.48,16.9,29.09,37.86,24.209
+GA,Sales and Related,17.44,11.47,13.98,28.71,47.01,94.947
+GA,Transportation and Material Moving,20.05,14.21,16.88,24.95,35.06,107.489
+HI,Architecture and Engineering,47.17,29.69,37.37,58.73,68.76,14.776
+HI,"Arts, Design, Entertainment, Sports, and Media",27.81,16.92,21.1,39.56,58.64,15.026
+HI,Building and Grounds Cleaning and Maintenance,22.52,14.95,17.98,27.11,29.56,52.45
+HI,Business and Financial Operations,37.71,22.8,29.33,49.45,63.47,48.336
+HI,Community and Social Service,28.12,18.32,22.7,36.91,46.12,18.358
+HI,Computer and Mathematical,47.59,24.85,33.16,62.04,77.99,19.473
+HI,Construction and Extraction,39.64,22.91,29.45,50.01,58.05,47.151
+HI,Educational Instruction and Library,28.61,17.51,22.5,37.07,48.84,65.251
+HI,"Farming, Fishing, and Forestry",20.94,14.92,17.79,26.42,30.33,2.29
+HI,Food Preparation and Serving Related,18.98,14.1,15.65,28.33,38.06,131.734
+HI,Healthcare Practitioners and Technical,51.0,25.2,34.31,69.3,104.47,57.102
+HI,Healthcare Support,21.63,16.75,18.32,24.25,28.93,34.017
+HI,"Installation, Maintenance, and Repair",31.79,19.33,24.69,40.55,50.23,41.655
+HI,Legal,44.14,23.28,30.2,63.2,84.66,6.817
+HI,"Life, Physical, and Social Science",35.61,19.09,25.85,47.44,59.94,12.001
+HI,Management,55.79,28.91,39.52,75.19,98.72,69.217
+HI,Office and Administrative Support,23.47,17.03,19.35,29.57,36.07,119.329
+HI,Personal Care and Service,19.71,14.58,16.11,24.44,29.62,28.495
+HI,Production,23.41,15.64,18.27,32.4,43.67,21.742
+HI,Protective Service,26.81,17.43,20.46,39.03,51.98,33.344
+HI,Sales and Related,20.19,14.99,17.24,26.54,36.61,81.263
+HI,Transportation and Material Moving,23.05,16.49,18.41,30.42,45.25,80.171
+IA,Architecture and Engineering,40.24,27.67,33.74,51.21,62.89,13.455
+IA,"Arts, Design, Entertainment, Sports, and Media",24.43,14.66,18.77,33.58,45.1,11.916
+IA,Building and Grounds Cleaning and Maintenance,17.41,13.77,14.68,21.35,23.96,29.27
+IA,Business and Financial Operations,36.93,23.17,28.96,47.72,61.89,57.765
+IA,Community and Social Service,24.29,17.27,21.06,31.77,39.44,15.567
+IA,Computer and Mathematical,42.96,24.16,31.57,59.13,70.77,24.53
+IA,Construction and Extraction,28.59,19.28,22.93,35.82,43.02,45.256
+IA,Educational Instruction and Library,23.37,13.88,16.99,30.67,38.92,69.629
+IA,"Farming, Fishing, and Forestry",21.39,14.32,17.54,24.91,29.72,3.24
+IA,Food Preparation and Serving Related,14.24,8.47,11.11,17.35,21.38,86.599
+IA,Healthcare Practitioners and Technical,37.3,21.57,29.67,46.81,67.83,59.067
+IA,Healthcare Support,18.47,15.35,17.18,21.95,23.9,42.028
+IA,"Installation, Maintenance, and Repair",28.82,18.22,22.5,35.77,41.42,44.9
+IA,Legal,34.21,19.18,23.45,59.69,88.78,5.31
+IA,"Life, Physical, and Social Science",34.95,21.4,26.68,44.71,59.97,9.162
+IA,Management,49.47,25.0,35.84,69.13,97.45,62.013
+IA,Office and Administrative Support,22.36,15.84,18.4,27.41,32.68,108.638
+IA,Personal Care and Service,14.64,10.66,12.89,18.47,24.23,20.243
+IA,Production,23.36,17.48,20.12,28.29,33.54,91.188
+IA,Protective Service,25.68,14.68,17.76,35.67,44.71,15.516
+IA,Sales and Related,17.12,13.01,13.9,24.95,39.24,90.651
+IA,Transportation and Material Moving,22.14,14.73,17.77,27.49,34.84,94.057
+ID,Architecture and Engineering,46.52,25.34,34.05,60.53,76.0,17.685
+ID,"Arts, Design, Entertainment, Sports, and Media",23.67,14.99,18.33,35.14,48.28,10.903
+ID,Building and Grounds Cleaning and Maintenance,17.99,13.75,16.42,22.23,26.83,33.739
+ID,Business and Financial Operations,35.79,21.67,27.41,48.32,63.78,50.171
+ID,Community and Social Service,27.02,18.58,22.35,34.61,40.97,16.047
+ID,Computer and Mathematical,43.27,24.12,32.01,63.61,79.51,22.824
+ID,Construction and Extraction,27.0,18.11,21.85,33.55,39.98,65.721
+ID,Educational Instruction and Library,25.72,14.39,17.81,34.09,42.67,51.443
+ID,"Farming, Fishing, and Forestry",18.18,14.37,15.88,23.9,32.09,6.955
+ID,Food Preparation and Serving Related,14.51,9.18,11.36,17.94,22.63,86.193
+ID,Healthcare Practitioners and Technical,40.56,20.96,30.04,50.92,74.8,60.068
+ID,Healthcare Support,17.89,13.65,15.06,21.3,23.39,48.414
+ID,"Installation, Maintenance, and Repair",27.22,17.76,22.01,35.19,43.96,45.691
+ID,Legal,35.73,18.72,23.7,50.92,82.14,6.587
+ID,"Life, Physical, and Social Science",32.48,20.99,24.21,44.23,61.77,14.668
+ID,Management,48.47,23.45,33.24,67.91,96.05,68.136
+ID,Office and Administrative Support,21.8,14.78,17.97,26.4,31.91,124.032
+ID,Personal Care and Service,16.53,10.72,13.65,21.0,26.97,23.151
+ID,Production,22.59,16.38,18.31,28.15,37.07,59.133
+ID,Protective Service,24.96,15.51,18.44,35.91,45.07,19.146
+ID,Sales and Related,18.13,13.1,14.57,27.52,43.32,84.077
+ID,Transportation and Material Moving,21.38,14.7,17.56,26.7,32.42,85.216
+IL,Architecture and Engineering,47.47,29.07,37.35,60.41,74.45,13.198
+IL,"Arts, Design, Entertainment, Sports, and Media",30.63,16.03,20.56,44.57,60.02,10.655
+IL,Building and Grounds Cleaning and Maintenance,18.53,15.21,17.2,22.31,27.06,27.534
+IL,Business and Financial Operations,39.76,23.74,30.63,53.19,69.97,66.441
+IL,Community and Social Service,27.83,18.51,22.42,36.7,47.58,17.094
+IL,Computer and Mathematical,49.62,27.06,36.62,65.17,81.47,29.937
+IL,Construction and Extraction,38.74,20.74,27.01,50.63,58.27,30.696
+IL,Educational Instruction and Library,29.04,16.47,19.46,38.82,50.6,63.046
+IL,"Farming, Fishing, and Forestry",21.21,15.59,17.74,23.55,30.59,1.062
+IL,Food Preparation and Serving Related,16.47,15.0,15.0,18.16,22.54,81.108
+IL,Healthcare Practitioners and Technical,40.84,22.39,31.53,52.61,74.43,62.13
+IL,Healthcare Support,18.74,16.96,18.08,22.52,25.95,44.184
+IL,"Installation, Maintenance, and Repair",29.16,17.86,22.35,37.83,47.66,34.553
+IL,Legal,50.52,24.5,35.42,89.67,139.92,8.668
+IL,"Life, Physical, and Social Science",39.84,23.17,30.58,54.66,74.87,7.636
+IL,Management,61.58,29.4,40.57,83.5,115.67,87.589
+IL,Office and Administrative Support,22.95,16.49,18.68,29.1,36.9,111.499
+IL,Personal Care and Service,17.39,15.0,15.41,21.72,28.82,21.303
+IL,Production,22.61,16.82,18.47,28.65,36.96,67.616
+IL,Protective Service,27.25,16.76,18.07,44.57,52.25,25.115
+IL,Sales and Related,18.5,15.0,16.47,30.25,49.57,84.962
+IL,Transportation and Material Moving,21.87,15.54,17.64,27.86,36.91,103.973
+IN,Architecture and Engineering,42.33,25.79,32.81,53.4,65.32,16.295
+IN,"Arts, Design, Entertainment, Sports, and Media",24.57,14.73,18.81,35.62,46.73,10.296
+IN,Building and Grounds Cleaning and Maintenance,17.76,13.88,14.97,21.24,23.75,27.931
+IN,Business and Financial Operations,36.19,21.97,27.75,47.46,60.88,49.532
+IN,Community and Social Service,24.3,17.23,20.67,30.35,37.92,16.39
+IN,Computer and Mathematical,40.39,23.01,30.1,56.43,68.86,21.129
+IN,Construction and Extraction,29.74,19.18,23.1,38.64,47.07,45.479
+IN,Educational Instruction and Library,25.06,14.35,17.99,34.75,44.64,50.596
+IN,"Farming, Fishing, and Forestry",21.66,14.23,17.5,24.72,30.45,0.988
+IN,Food Preparation and Serving Related,14.16,10.23,12.06,17.42,21.62,85.815
+IN,Healthcare Practitioners and Technical,38.82,20.35,29.41,49.96,80.09,66.064
+IN,Healthcare Support,18.0,14.68,16.84,21.62,23.64,42.527
+IN,"Installation, Maintenance, and Repair",28.3,17.71,22.17,35.5,43.78,43.199
+IN,Legal,40.11,21.46,26.27,67.89,102.77,5.515
+IN,"Life, Physical, and Social Science",35.18,22.18,26.77,45.75,60.51,8.444
+IN,Management,52.26,28.16,38.13,76.49,103.04,53.257
+IN,Office and Administrative Support,22.13,15.27,18.14,27.33,33.71,107.953
+IN,Personal Care and Service,14.79,10.74,13.09,19.1,26.12,17.717
+IN,Production,22.77,16.88,18.77,28.83,36.5,110.466
+IN,Protective Service,23.54,14.54,17.5,33.86,41.37,21.045
+IN,Sales and Related,17.54,11.85,14.06,27.93,43.87,87.058
+IN,Transportation and Material Moving,21.26,14.53,17.34,26.5,33.75,112.302
+KS,Architecture and Engineering,41.05,25.66,33.49,52.96,67.56,18.106
+KS,"Arts, Design, Entertainment, Sports, and Media",23.68,12.39,17.47,32.89,46.18,11.232
+KS,Building and Grounds Cleaning and Maintenance,17.22,13.25,14.66,20.67,23.72,26.873
+KS,Business and Financial Operations,37.2,22.65,28.75,48.65,63.28,63.998
+KS,Community and Social Service,24.3,17.37,20.61,30.2,36.72,15.749
+KS,Computer and Mathematical,45.22,24.8,31.77,61.23,74.95,26.374
+KS,Construction and Extraction,26.43,18.0,21.67,35.16,44.49,42.645
+KS,Educational Instruction and Library,23.68,13.61,17.04,29.68,37.66,62.203
+KS,"Farming, Fishing, and Forestry",18.89,13.49,17.02,22.34,27.82,2.552
+KS,Food Preparation and Serving Related,14.07,10.35,11.92,17.42,22.58,86.161
+KS,Healthcare Practitioners and Technical,37.57,21.18,29.13,47.94,67.87,67.812
+KS,Healthcare Support,17.62,13.85,15.13,20.99,23.17,46.723
+KS,"Installation, Maintenance, and Repair",28.05,17.9,21.98,36.04,43.93,43.301
+KS,Legal,39.62,22.31,28.33,61.76,85.37,5.367
+KS,"Life, Physical, and Social Science",34.95,21.67,27.22,46.81,61.17,8.753
+KS,Management,55.6,28.06,38.52,78.43,106.26,54.36
+KS,Office and Administrative Support,21.48,14.67,17.59,25.86,31.73,112.812
+KS,Personal Care and Service,14.68,10.65,12.98,18.52,26.19,21.801
+KS,Production,23.15,16.72,18.98,29.03,37.23,81.399
+KS,Protective Service,23.65,14.35,17.63,31.22,42.6,21.833
+KS,Sales and Related,17.21,11.64,13.87,27.88,45.35,86.095
+KS,Transportation and Material Moving,21.37,14.4,17.28,25.15,34.22,93.852
+KY,Architecture and Engineering,40.72,24.41,31.24,52.06,63.85,13.789
+KY,"Arts, Design, Entertainment, Sports, and Media",23.13,13.5,16.91,31.84,42.5,8.96
+KY,Building and Grounds Cleaning and Maintenance,16.8,12.69,14.1,19.3,23.53,26.742
+KY,Business and Financial Operations,34.33,21.54,26.78,45.19,57.69,46.219
+KY,Community and Social Service,26.2,16.96,20.37,32.83,39.62,17.273
+KY,Computer and Mathematical,40.67,22.51,29.98,57.59,74.75,19.603
+KY,Construction and Extraction,25.55,17.74,21.56,32.88,40.12,38.388
+KY,Educational Instruction and Library,25.34,13.96,19.17,31.35,39.95,54.317
+KY,"Farming, Fishing, and Forestry",18.91,13.33,15.33,24.03,30.42,1.31
+KY,Food Preparation and Serving Related,13.76,9.91,11.06,17.06,21.69,87.844
+KY,Healthcare Practitioners and Technical,37.76,19.26,28.36,49.25,73.74,70.508
+KY,Healthcare Support,18.6,14.08,16.61,22.08,26.03,42.567
+KY,"Installation, Maintenance, and Repair",27.68,16.87,21.0,35.27,43.21,47.056
+KY,Legal,37.73,22.61,28.98,60.52,79.36,5.288
+KY,"Life, Physical, and Social Science",34.68,21.8,26.81,45.44,59.93,6.894
+KY,Management,47.71,22.81,31.21,66.06,93.75,60.958
+KY,Office and Administrative Support,20.95,14.25,17.33,25.26,31.84,125.921
+KY,Personal Care and Service,15.0,10.59,12.89,19.01,24.54,16.175
+KY,Production,22.96,16.0,18.5,28.86,36.75,90.147
+KY,Protective Service,20.34,13.91,16.61,28.05,36.35,21.995
+KY,Sales and Related,16.63,11.05,13.45,23.97,38.26,85.304
+KY,Transportation and Material Moving,21.37,14.43,17.13,26.49,35.9,112.743
+LA,Architecture and Engineering,45.66,23.45,32.11,61.89,79.64,15.683
+LA,"Arts, Design, Entertainment, Sports, and Media",23.99,13.17,17.41,34.81,52.08,9.658
+LA,Building and Grounds Cleaning and Maintenance,14.19,10.41,11.78,17.29,21.83,28.941
+LA,Business and Financial Operations,33.29,19.82,24.92,45.09,59.36,46.548
+LA,Community and Social Service,23.67,14.84,17.85,30.35,37.36,15.119
+LA,Computer and Mathematical,37.93,21.52,27.63,50.74,63.2,13.609
+LA,Construction and Extraction,24.01,16.32,18.8,31.24,38.27,57.681
+LA,Educational Instruction and Library,27.39,13.27,21.83,30.18,40.87,56.252
+LA,"Farming, Fishing, and Forestry",23.32,13.89,17.35,29.02,33.0,1.669
+LA,Food Preparation and Serving Related,11.25,7.25,9.77,14.5,18.34,96.59
+LA,Healthcare Practitioners and Technical,35.65,18.52,26.4,46.51,65.92,76.336
+LA,Healthcare Support,13.98,9.75,10.83,17.27,20.69,51.039
+LA,"Installation, Maintenance, and Repair",25.5,15.23,19.01,34.69,44.03,49.517
+LA,Legal,37.14,18.02,26.98,59.85,85.06,8.866
+LA,"Life, Physical, and Social Science",36.23,21.61,27.71,48.28,62.28,7.931
+LA,Management,49.12,26.2,35.89,68.05,97.83,62.51
+LA,Office and Administrative Support,19.0,12.79,15.45,24.07,30.89,115.869
+LA,Personal Care and Service,13.46,8.9,10.57,17.23,24.29,18.851
+LA,Production,23.99,13.94,17.84,35.74,48.54,52.74
+LA,Protective Service,20.07,13.18,15.0,26.68,34.65,30.416
+LA,Sales and Related,15.66,10.54,12.84,23.15,37.69,87.497
+LA,Transportation and Material Moving,18.85,12.69,14.86,24.77,33.71,96.676
+MA,Architecture and Engineering,51.13,32.22,39.79,65.68,82.47,21.756
+MA,"Arts, Design, Entertainment, Sports, and Media",36.74,19.09,25.54,48.7,65.46,13.505
+MA,Building and Grounds Cleaning and Maintenance,22.41,17.17,18.41,25.65,29.85,28.676
+MA,Business and Financial Operations,48.66,29.26,37.39,63.65,81.15,82.239
+MA,Community and Social Service,30.41,21.18,23.58,40.15,49.42,22.137
+MA,Computer and Mathematical,62.8,34.25,46.14,80.38,99.43,42.295
+MA,Construction and Extraction,37.25,22.97,28.26,48.48,59.84,36.55
+MA,Educational Instruction and Library,37.28,17.83,23.43,48.54,61.16,69.622
+MA,"Farming, Fishing, and Forestry",21.02,17.07,17.97,25.0,30.5,0.706
+MA,Food Preparation and Serving Related,17.94,15.27,16.79,21.97,27.61,80.541
+MA,Healthcare Practitioners and Technical,48.19,24.92,37.62,64.95,94.54,68.93
+MA,Healthcare Support,20.71,18.12,19.62,23.3,28.3,55.098
+MA,"Installation, Maintenance, and Repair",31.37,20.07,24.45,40.49,49.92,29.43
+MA,Legal,63.94,29.28,39.6,103.17,171.25,9.649
+MA,"Life, Physical, and Social Science",50.02,29.5,37.91,66.94,85.75,21.467
+MA,Management,76.62,35.8,49.65,104.96,151.03,89.938
+MA,Office and Administrative Support,26.44,18.39,22.18,31.65,38.96,99.164
+MA,Personal Care and Service,20.51,15.82,17.17,24.35,34.92,23.178
+MA,Production,23.55,17.5,19.44,30.38,38.95,38.436
+MA,Protective Service,31.51,17.63,21.66,41.71,50.76,22.788
+MA,Sales and Related,21.76,16.39,17.31,37.4,61.42,79.638
+MA,Transportation and Material Moving,22.08,16.56,18.02,28.94,35.77,64.256
+MD,Architecture and Engineering,53.47,30.87,39.87,74.52,89.05,19.368
+MD,"Arts, Design, Entertainment, Sports, and Media",34.18,18.5,23.46,47.04,61.94,11.719
+MD,Building and Grounds Cleaning and Maintenance,18.29,15.47,16.96,21.87,25.86,30.186
+MD,Business and Financial Operations,46.09,25.87,34.04,61.19,75.37,81.581
+MD,Community and Social Service,29.13,18.0,22.63,38.18,48.86,19.075
+MD,Computer and Mathematical,61.75,30.3,43.23,78.86,94.47,50.529
+MD,Construction and Extraction,28.79,18.98,22.84,37.05,48.31,40.445
+MD,Educational Instruction and Library,31.84,17.23,23.03,47.6,58.93,62.637
+MD,"Farming, Fishing, and Forestry",19.27,15.85,17.35,24.35,30.32,1.074
+MD,Food Preparation and Serving Related,17.33,15.0,15.71,19.32,25.0,77.135
+MD,Healthcare Practitioners and Technical,47.41,22.86,34.77,61.33,91.08,62.366
+MD,Healthcare Support,19.74,16.23,17.8,22.47,27.52,40.772
+MD,"Installation, Maintenance, and Repair",29.45,18.51,22.83,38.21,48.31,34.956
+MD,Legal,52.23,25.27,36.1,79.93,99.75,8.582
+MD,"Life, Physical, and Social Science",49.79,25.46,34.54,65.7,86.77,17.726
+MD,Management,63.21,31.09,43.37,84.66,109.73,94.428
+MD,Office and Administrative Support,23.66,17.01,19.43,30.0,38.01,113.676
+MD,Personal Care and Service,18.25,15.2,16.68,22.88,30.38,24.111
+MD,Production,22.99,16.33,17.95,30.48,40.29,24.176
+MD,Protective Service,27.66,16.55,17.87,38.41,53.64,27.888
+MD,Sales and Related,18.0,15.03,16.49,25.69,39.94,80.285
+MD,Transportation and Material Moving,21.61,16.12,17.92,28.12,36.18,77.287
+ME,Architecture and Engineering,45.37,28.98,36.52,57.9,66.82,16.522
+ME,"Arts, Design, Entertainment, Sports, and Media",25.55,16.17,19.6,37.22,53.08,12.107
+ME,Building and Grounds Cleaning and Maintenance,19.78,16.72,17.72,22.62,27.18,35.25
+ME,Business and Financial Operations,37.84,24.39,29.85,49.15,61.34,54.565
+ME,Community and Social Service,27.0,20.82,22.7,32.92,39.1,23.759
+ME,Computer and Mathematical,43.92,27.16,33.5,58.57,75.46,23.421
+ME,Construction and Extraction,29.0,20.8,23.41,35.34,40.52,50.492
+ME,Educational Instruction and Library,27.84,18.0,22.37,36.58,43.18,63.859
+ME,"Farming, Fishing, and Forestry",22.05,17.6,19.82,26.84,30.43,2.67
+ME,Food Preparation and Serving Related,17.81,14.89,16.4,22.34,29.73,86.072
+ME,Healthcare Practitioners and Technical,41.82,23.07,33.42,53.55,93.16,70.395
+ME,Healthcare Support,21.19,17.21,18.36,23.14,28.14,57.654
+ME,"Installation, Maintenance, and Repair",28.84,19.34,23.09,36.2,44.41,44.27
+ME,Legal,39.66,26.58,30.67,62.5,84.2,6.208
+ME,"Life, Physical, and Social Science",36.22,23.51,28.4,47.59,57.9,8.804
+ME,Management,51.16,28.19,37.66,73.0,96.28,70.115
+ME,Office and Administrative Support,23.11,17.83,20.35,28.27,34.65,116.485
+ME,Personal Care and Service,18.07,15.08,16.91,22.2,28.55,23.119
+ME,Production,23.75,17.51,19.77,29.87,37.74,53.685
+ME,Protective Service,24.87,16.95,20.44,32.16,39.68,19.109
+ME,Sales and Related,18.45,15.05,16.84,26.28,37.3,84.907
+ME,Transportation and Material Moving,21.63,15.43,17.69,27.08,30.93,76.532
+MI,Architecture and Engineering,47.91,28.87,37.27,61.31,71.54,29.551
+MI,"Arts, Design, Entertainment, Sports, and Media",26.78,15.0,18.55,37.95,52.01,11.834
+MI,Building and Grounds Cleaning and Maintenance,17.63,14.16,15.49,21.0,23.92,29.391
+MI,Business and Financial Operations,37.79,22.58,29.05,49.21,63.37,60.033
+MI,Community and Social Service,26.55,17.83,21.12,34.7,39.99,16.943
+MI,Computer and Mathematical,47.73,23.97,33.3,62.79,77.71,28.79
+MI,Construction and Extraction,29.42,19.25,23.22,37.63,45.78,36.576
+MI,Educational Instruction and Library,28.48,15.07,18.41,37.81,48.03,53.525
+MI,"Farming, Fishing, and Forestry",19.54,14.61,16.87,22.17,27.72,2.057
+MI,Food Preparation and Serving Related,16.14,12.61,13.69,18.51,24.47,81.817
+MI,Healthcare Practitioners and Technical,40.15,21.43,30.77,50.43,73.7,66.969
+MI,Healthcare Support,18.12,14.28,16.57,21.36,23.7,46.755
+MI,"Installation, Maintenance, and Repair",28.18,17.83,22.03,35.78,44.29,40.213
+MI,Legal,46.08,22.86,29.84,69.42,97.96,6.629
+MI,"Life, Physical, and Social Science",36.84,23.25,28.98,48.32,63.2,7.78
+MI,Management,54.83,27.98,37.99,79.14,103.92,67.696
+MI,Office and Administrative Support,22.27,15.95,18.28,27.65,34.05,112.356
+MI,Personal Care and Service,16.47,12.58,13.95,19.81,27.83,18.571
+MI,Production,22.34,17.0,18.32,29.16,36.98,94.901
+MI,Protective Service,25.0,15.0,17.81,34.68,41.52,18.17
+MI,Sales and Related,17.75,13.44,14.48,28.7,47.0,83.907
+MI,Transportation and Material Moving,20.24,14.53,17.01,24.68,31.14,85.534
+MN,Architecture and Engineering,46.61,29.79,37.17,60.33,71.77,19.549
+MN,"Arts, Design, Entertainment, Sports, and Media",30.04,16.9,22.19,39.34,50.36,12.707
+MN,Building and Grounds Cleaning and Maintenance,19.63,14.8,17.41,23.33,28.35,27.906
+MN,Business and Financial Operations,40.04,26.19,31.94,51.77,65.92,69.97
+MN,Community and Social Service,29.8,21.13,23.82,37.77,46.29,20.86
+MN,Computer and Mathematical,50.07,29.48,38.0,64.45,79.64,32.494
+MN,Construction and Extraction,34.9,22.29,27.3,45.96,51.36,41.511
+MN,Educational Instruction and Library,28.6,17.74,21.79,38.42,48.27,57.448
+MN,"Farming, Fishing, and Forestry",22.86,15.01,18.31,27.17,35.66,1.265
+MN,Food Preparation and Serving Related,16.28,11.38,13.78,18.45,22.53,82.185
+MN,Healthcare Practitioners and Technical,47.52,25.23,35.76,60.71,88.23,66.609
+MN,Healthcare Support,19.43,16.52,17.91,22.51,26.4,63.635
+MN,"Installation, Maintenance, and Repair",30.25,20.02,24.05,38.14,46.92,34.416
+MN,Legal,50.53,24.62,36.11,81.55,110.44,7.362
+MN,"Life, Physical, and Social Science",39.98,23.27,30.76,50.69,64.62,10.86
+MN,Management,60.88,29.31,41.3,83.08,108.69,69.14
+MN,Office and Administrative Support,24.47,17.41,21.15,29.85,36.82,110.698
+MN,Personal Care and Service,17.62,13.19,14.83,22.49,28.45,23.05
+MN,Production,23.7,17.99,20.87,29.49,36.85,67.995
+MN,Protective Service,28.36,16.17,19.14,38.86,49.46,16.541
+MN,Sales and Related,18.92,14.09,16.78,30.2,48.48,85.358
+MN,Transportation and Material Moving,22.87,16.09,18.2,29.18,36.44,78.443
+MO,Architecture and Engineering,41.56,26.16,32.35,55.93,68.41,12.945
+MO,"Arts, Design, Entertainment, Sports, and Media",24.42,14.65,18.42,35.13,48.63,11.627
+MO,Building and Grounds Cleaning and Maintenance,17.59,14.15,15.19,20.54,23.47,28.226
+MO,Business and Financial Operations,36.86,21.9,27.92,48.78,63.32,63.418
+MO,Community and Social Service,23.82,17.91,21.1,29.55,37.33,16.997
+MO,Computer and Mathematical,45.04,24.03,30.71,61.64,77.27,30.158
+MO,Construction and Extraction,29.68,19.23,23.0,39.48,48.99,39.441
+MO,Educational Instruction and Library,23.69,14.29,18.35,30.95,42.8,57.384
+MO,"Farming, Fishing, and Forestry",18.29,14.02,15.23,22.44,29.09,2.258
+MO,Food Preparation and Serving Related,14.94,13.75,13.83,17.81,22.38,86.903
+MO,Healthcare Practitioners and Technical,38.1,20.58,28.56,48.2,65.63,70.892
+MO,Healthcare Support,17.36,13.75,14.29,20.42,22.72,56.959
+MO,"Installation, Maintenance, and Repair",27.8,17.56,21.65,35.51,44.02,40.425
+MO,Legal,39.36,21.44,27.66,69.46,103.12,7.312
+MO,"Life, Physical, and Social Science",36.48,21.17,26.8,49.16,64.32,7.787
+MO,Management,47.9,22.69,31.33,69.01,98.91,76.094
+MO,Office and Administrative Support,21.67,15.2,17.73,26.83,33.64,115.846
+MO,Personal Care and Service,15.68,13.75,14.01,18.67,25.19,20.396
+MO,Production,22.99,16.56,18.63,29.0,37.57,66.108
+MO,Protective Service,22.52,15.0,18.21,30.96,43.06,21.376
+MO,Sales and Related,17.27,13.75,14.56,24.91,39.26,82.191
+MO,Transportation and Material Moving,20.75,14.51,17.04,25.13,32.23,85.255
+MS,Architecture and Engineering,39.3,21.74,29.17,52.35,64.48,12.344
+MS,"Arts, Design, Entertainment, Sports, and Media",20.95,11.86,15.16,29.84,39.98,7.744
+MS,Building and Grounds Cleaning and Maintenance,13.9,10.31,11.49,17.11,21.43,28.894
+MS,Business and Financial Operations,31.99,19.21,24.28,43.82,57.69,41.892
+MS,Community and Social Service,22.37,14.07,17.02,28.93,35.42,15.148
+MS,Computer and Mathematical,36.06,19.54,25.29,47.74,64.04,13.687
+MS,Construction and Extraction,22.5,14.99,17.77,29.64,36.57,42.682
+MS,Educational Instruction and Library,23.7,11.41,17.78,28.97,35.43,59.843
+MS,"Farming, Fishing, and Forestry",18.03,8.02,15.12,24.18,29.46,3.693
+MS,Food Preparation and Serving Related,11.67,8.7,10.35,14.29,17.98,94.203
+MS,Healthcare Practitioners and Technical,32.03,18.2,23.85,43.0,63.79,74.026
+MS,Healthcare Support,14.11,11.0,11.76,16.88,20.92,43.892
+MS,"Installation, Maintenance, and Repair",23.62,14.88,18.1,31.4,40.56,50.142
+MS,Legal,29.87,17.58,21.57,48.28,76.25,5.276
+MS,"Life, Physical, and Social Science",31.14,19.39,23.93,43.08,55.99,7.054
+MS,Management,46.45,24.41,33.1,63.68,89.88,40.783
+MS,Office and Administrative Support,18.37,13.13,15.27,23.15,29.94,125.941
+MS,Personal Care and Service,12.97,8.85,10.49,17.91,27.03,20.181
+MS,Production,19.71,14.05,16.74,26.73,34.88,84.488
+MS,Protective Service,17.98,11.9,14.1,23.87,29.7,28.913
+MS,Sales and Related,14.59,10.35,11.68,20.57,30.13,93.691
+MS,Transportation and Material Moving,18.24,13.18,15.14,23.23,30.87,105.482
+MT,Architecture and Engineering,39.1,25.09,31.46,50.19,63.14,16.007
+MT,"Arts, Design, Entertainment, Sports, and Media",24.65,13.99,18.41,34.4,44.02,15.555
+MT,Building and Grounds Cleaning and Maintenance,18.38,13.78,16.37,22.57,27.02,40.301
+MT,Business and Financial Operations,35.63,22.83,28.7,45.99,58.88,58.412
+MT,Community and Social Service,24.14,16.93,19.39,29.73,38.11,20.862
+MT,Computer and Mathematical,38.58,24.63,29.84,51.15,74.32,18.498
+MT,Construction and Extraction,29.31,20.49,23.74,36.68,41.68,62.329
+MT,Educational Instruction and Library,23.31,14.0,17.76,33.15,40.69,56.12
+MT,"Farming, Fishing, and Forestry",21.03,14.67,17.32,25.4,31.25,4.328
+MT,Food Preparation and Serving Related,14.7,10.77,12.47,18.08,22.4,103.813
+MT,Healthcare Practitioners and Technical,39.5,22.14,30.38,51.08,77.78,62.792
+MT,Healthcare Support,18.88,14.7,17.32,22.22,23.94,42.075
+MT,"Installation, Maintenance, and Repair",28.4,18.14,22.22,36.51,45.47,46.531
+MT,Legal,40.2,23.25,28.24,52.12,75.63,8.174
+MT,"Life, Physical, and Social Science",34.04,22.8,26.11,42.6,51.86,17.314
+MT,Management,48.75,26.44,35.52,65.11,93.73,62.99
+MT,Office and Administrative Support,22.05,16.58,18.54,26.35,31.0,116.648
+MT,Personal Care and Service,16.57,10.8,13.43,21.38,28.0,27.65
+MT,Production,23.18,16.55,18.49,29.48,39.62,34.504
+MT,Protective Service,27.68,17.11,21.75,35.74,42.0,18.563
+MT,Sales and Related,18.45,13.62,15.8,25.53,36.69,89.862
+MT,Transportation and Material Moving,22.01,14.85,17.91,27.97,35.0,76.672
+NC,Architecture and Engineering,43.92,25.6,33.58,57.86,73.78,16.121
+NC,"Arts, Design, Entertainment, Sports, and Media",26.76,14.85,19.02,38.22,51.52,12.373
+NC,Building and Grounds Cleaning and Maintenance,17.34,13.13,14.44,19.2,23.43,27.781
+NC,Business and Financial Operations,38.57,23.09,29.48,51.71,68.77,72.155
+NC,Community and Social Service,26.22,17.52,21.74,31.32,37.46,14.26
+NC,Computer and Mathematical,51.73,26.09,37.35,66.52,81.21,39.605
+NC,Construction and Extraction,23.75,17.59,20.52,29.76,37.94,39.815
+NC,Educational Instruction and Library,23.75,14.28,17.96,29.67,38.36,56.126
+NC,"Farming, Fishing, and Forestry",18.16,13.49,15.85,23.06,29.75,1.405
+NC,Food Preparation and Serving Related,14.34,10.29,11.87,17.92,23.35,91.548
+NC,Healthcare Practitioners and Technical,39.07,21.33,29.84,50.69,76.92,66.27
+NC,Healthcare Support,18.17,13.62,15.68,21.84,24.88,38.191
+NC,"Installation, Maintenance, and Repair",27.19,17.15,21.34,34.33,41.7,41.003
+NC,Legal,37.48,21.57,26.6,65.28,109.39,6.576
+NC,"Life, Physical, and Social Science",37.91,23.57,29.67,50.04,65.72,10.946
+NC,Management,59.8,29.02,39.35,82.92,112.22,61.322
+NC,Office and Administrative Support,21.85,15.0,17.92,26.5,32.19,108.648
+NC,Personal Care and Service,16.19,10.82,13.3,21.6,29.32,19.041
+NC,Production,21.21,14.69,17.59,26.07,31.9,64.439
+NC,Protective Service,22.26,14.27,16.83,29.43,37.95,23.421
+NC,Sales and Related,17.97,11.81,14.0,29.36,49.08,97.89
+NC,Transportation and Material Moving,18.77,13.95,16.65,22.88,29.53,91.061
+ND,Architecture and Engineering,40.95,25.9,33.29,52.48,65.41,14.034
+ND,"Arts, Design, Entertainment, Sports, and Media",23.6,14.77,18.33,32.17,43.44,11.502
+ND,Building and Grounds Cleaning and Maintenance,18.24,14.67,16.78,22.7,27.54,30.549
+ND,Business and Financial Operations,36.96,23.87,29.21,46.86,60.02,51.466
+ND,Community and Social Service,29.15,18.96,22.93,35.45,39.58,14.803
+ND,Computer and Mathematical,39.41,24.85,30.49,51.3,62.2,16.116
+ND,Construction and Extraction,29.41,21.66,23.81,36.99,46.96,80.848
+ND,Educational Instruction and Library,26.51,17.5,21.43,31.29,39.83,58.328
+ND,"Farming, Fishing, and Forestry",22.33,17.38,18.93,24.68,29.24,2.292
+ND,Food Preparation and Serving Related,16.36,10.7,13.84,18.17,22.87,83.104
+ND,Healthcare Practitioners and Technical,38.43,22.71,30.35,49.03,76.43,70.983
+ND,Healthcare Support,21.27,17.14,17.84,23.03,26.96,41.925
+ND,"Installation, Maintenance, and Repair",29.8,18.98,23.71,39.03,49.66,53.006
+ND,Legal,39.0,23.04,28.62,57.36,82.26,5.06
+ND,"Life, Physical, and Social Science",34.5,23.33,28.07,46.2,57.81,10.773
+ND,Management,49.73,27.78,37.04,67.38,88.99,62.699
+ND,Office and Administrative Support,23.1,16.79,19.0,28.54,34.58,104.983
+ND,Personal Care and Service,16.07,11.16,13.86,18.68,25.96,27.565
+ND,Production,24.4,17.86,21.54,32.48,40.94,55.673
+ND,Protective Service,28.05,15.26,21.28,35.83,43.83,18.596
+ND,Sales and Related,18.19,13.89,15.15,28.19,41.7,85.647
+ND,Transportation and Material Moving,23.65,16.86,18.91,29.81,38.47,100.045
+NE,Architecture and Engineering,38.96,23.46,29.86,51.57,64.57,12.883
+NE,"Arts, Design, Entertainment, Sports, and Media",24.53,15.47,19.44,32.78,41.86,10.533
+NE,Building and Grounds Cleaning and Maintenance,17.84,14.18,15.22,22.02,24.75,29.095
+NE,Business and Financial Operations,34.54,22.31,27.3,44.89,58.07,57.43
+NE,Community and Social Service,24.49,18.35,21.23,31.5,39.62,14.604
+NE,Computer and Mathematical,41.84,23.92,31.24,57.12,68.64,30.479
+NE,Construction and Extraction,25.86,18.74,22.29,31.36,39.83,49.575
+NE,Educational Instruction and Library,28.94,14.46,18.48,36.0,41.53,60.487
+NE,"Farming, Fishing, and Forestry",21.9,17.56,18.48,27.07,29.83,2.889
+NE,Food Preparation and Serving Related,15.32,13.5,13.73,17.91,22.27,88.74
+NE,Healthcare Practitioners and Technical,39.46,22.74,30.41,49.74,76.07,66.999
+NE,Healthcare Support,18.63,15.7,17.41,22.07,24.01,40.136
+NE,"Installation, Maintenance, and Repair",28.36,18.44,22.6,35.48,42.69,44.076
+NE,Legal,40.68,22.89,30.4,63.78,100.09,5.812
+NE,"Life, Physical, and Social Science",32.19,21.28,25.14,43.26,55.94,9.191
+NE,Management,50.25,27.06,36.61,70.31,97.23,73.903
+NE,Office and Administrative Support,22.04,15.85,18.3,26.44,31.4,114.702
+NE,Personal Care and Service,15.31,13.5,14.08,18.5,24.67,24.462
+NE,Production,23.08,17.69,20.23,27.74,32.15,71.677
+NE,Protective Service,29.13,16.25,19.34,36.04,45.17,16.913
+NE,Sales and Related,17.7,13.7,14.51,27.62,41.05,86.114
+NE,Transportation and Material Moving,21.42,14.83,17.62,26.87,38.1,89.3
+NH,Architecture and Engineering,46.56,28.81,35.44,60.66,78.87,20.933
+NH,"Arts, Design, Entertainment, Sports, and Media",28.53,17.81,21.55,38.08,50.8,10.175
+NH,Building and Grounds Cleaning and Maintenance,20.69,15.37,17.58,23.47,28.68,30.8
+NH,Business and Financial Operations,39.18,24.34,30.17,50.43,64.62,60.853
+NH,Community and Social Service,27.99,18.88,22.55,35.77,42.6,18.444
+NH,Computer and Mathematical,51.56,28.08,37.47,75.69,83.86,37.233
+NH,Construction and Extraction,28.89,20.59,23.52,36.19,44.57,37.714
+NH,Educational Instruction and Library,29.08,17.31,21.52,38.23,46.45,59.195
+NH,"Farming, Fishing, and Forestry",22.5,13.82,17.2,28.02,31.49,1.025
+NH,Food Preparation and Serving Related,17.55,11.15,14.27,21.63,28.08,84.219
+NH,Healthcare Practitioners and Technical,46.35,23.69,35.27,57.46,84.31,66.667
+NH,Healthcare Support,22.1,17.28,18.61,24.03,29.11,37.11
+NH,"Installation, Maintenance, and Repair",29.9,19.93,23.6,37.87,46.91,40.306
+NH,Legal,42.6,24.3,30.17,62.31,112.07,5.984
+NH,"Life, Physical, and Social Science",38.26,22.5,29.09,51.19,66.94,8.771
+NH,Management,63.4,33.0,44.96,85.65,114.99,79.798
+NH,Office and Administrative Support,23.71,16.64,19.8,29.14,36.23,124.526
+NH,Personal Care and Service,17.99,12.77,14.71,22.96,29.58,23.608
+NH,Production,23.85,18.27,20.92,29.77,37.28,57.036
+NH,Protective Service,29.05,17.87,22.22,36.96,46.34,17.572
+NH,Sales and Related,18.46,14.29,16.23,28.94,46.63,103.158
+NH,Transportation and Material Moving,21.1,14.59,17.25,26.36,30.96,74.872
+NJ,Architecture and Engineering,49.63,30.43,38.78,64.0,81.5,11.301
+NJ,"Arts, Design, Entertainment, Sports, and Media",35.76,18.08,23.93,49.27,69.23,11.31
+NJ,Building and Grounds Cleaning and Maintenance,18.69,16.08,17.38,22.55,28.14,30.231
+NJ,Business and Financial Operations,47.16,28.24,36.48,61.84,79.83,66.979
+NJ,Community and Social Service,30.4,19.54,23.59,41.72,50.52,17.064
+NJ,Computer and Mathematical,59.57,30.0,40.64,78.2,90.33,36.125
+NJ,Construction and Extraction,35.32,21.07,25.71,50.03,61.57,29.464
+NJ,Educational Instruction and Library,31.38,16.9,21.93,45.17,50.53,69.749
+NJ,"Farming, Fishing, and Forestry",18.72,16.32,17.3,22.35,27.24,0.756
+NJ,Food Preparation and Serving Related,17.54,15.49,16.05,21.85,29.02,73.922
+NJ,Healthcare Practitioners and Technical,49.35,24.29,36.66,62.84,82.3,66.46
+NJ,Healthcare Support,20.78,16.0,17.47,23.09,26.85,48.737
+NJ,"Installation, Maintenance, and Repair",30.43,18.72,23.29,39.72,49.88,33.131
+NJ,Legal,54.94,28.31,37.2,84.41,134.75,8.91
+NJ,"Life, Physical, and Social Science",43.36,24.95,31.75,59.86,78.05,9.692
+NJ,Management,80.14,40.57,58.19,104.79,146.53,73.765
+NJ,Office and Administrative Support,24.43,17.57,20.73,30.54,38.7,125.218
+NJ,Personal Care and Service,17.7,15.49,16.36,22.23,32.77,27.823
+NJ,Production,22.36,15.98,17.65,29.25,38.37,40.32
+NJ,Protective Service,26.19,16.26,18.15,46.57,62.1,28.61
+NJ,Sales and Related,21.88,15.68,16.89,36.2,58.84,84.467
+NJ,Transportation and Material Moving,21.51,16.22,17.73,27.85,36.08,105.965
+NM,Architecture and Engineering,61.54,30.31,45.07,78.71,95.6,31.19
+NM,"Arts, Design, Entertainment, Sports, and Media",25.46,15.82,19.17,36.03,50.32,8.781
+NM,Building and Grounds Cleaning and Maintenance,17.17,13.66,14.64,18.85,22.44,31.812
+NM,Business and Financial Operations,37.27,22.6,28.77,49.35,63.85,52.615
+NM,Community and Social Service,28.85,18.34,22.39,37.44,46.39,17.637
+NM,Computer and Mathematical,47.74,24.01,32.01,62.81,81.19,23.565
+NM,Construction and Extraction,23.99,17.34,19.44,30.77,39.49,67.283
+NM,Educational Instruction and Library,30.35,15.12,20.52,37.49,44.59,61.233
+NM,"Farming, Fishing, and Forestry",16.36,12.0,12.91,20.97,25.21,3.489
+NM,Food Preparation and Serving Related,14.73,12.96,13.67,17.91,23.31,94.355
+NM,Healthcare Practitioners and Technical,41.52,19.33,28.95,53.35,78.89,59.774
+NM,Healthcare Support,14.55,12.73,13.23,18.12,22.11,63.622
+NM,"Installation, Maintenance, and Repair",24.65,16.3,18.82,34.45,43.36,43.226
+NM,Legal,42.55,22.34,30.04,63.39,96.29,7.077
+NM,"Life, Physical, and Social Science",38.81,22.68,28.61,53.06,74.37,11.535
+NM,Management,52.09,28.4,38.31,72.62,100.82,57.688
+NM,Office and Administrative Support,21.45,14.84,17.6,26.44,32.35,129.305
+NM,Personal Care and Service,16.99,13.04,14.17,19.39,24.72,17.012
+NM,Production,21.1,14.72,17.08,29.47,40.42,33.201
+NM,Protective Service,24.03,15.28,18.36,33.61,44.03,30.98
+NM,Sales and Related,16.96,13.5,14.32,22.67,35.72,80.305
+NM,Transportation and Material Moving,19.56,13.91,16.64,24.96,30.75,74.317
+NV,Architecture and Engineering,45.32,27.63,36.05,57.69,72.35,12.054
+NV,"Arts, Design, Entertainment, Sports, and Media",27.4,14.84,18.9,40.17,58.59,13.983
+NV,Building and Grounds Cleaning and Maintenance,20.01,14.11,16.81,23.49,27.4,48.22
+NV,Business and Financial Operations,37.27,21.73,28.32,48.38,62.83,47.638
+NV,Community and Social Service,28.97,17.72,22.26,37.75,45.99,10.698
+NV,Computer and Mathematical,44.61,24.0,30.08,60.36,78.54,19.216
+NV,Construction and Extraction,29.68,19.5,23.2,39.16,50.25,57.758
+NV,Educational Instruction and Library,26.48,12.0,17.65,36.98,40.81,37.987
+NV,"Farming, Fishing, and Forestry",17.19,13.72,15.43,18.88,26.83,0.73
+NV,Food Preparation and Serving Related,16.36,12.0,13.06,20.0,25.29,131.699
+NV,Healthcare Practitioners and Technical,46.03,22.09,30.42,58.07,75.42,49.174
+NV,Healthcare Support,18.15,13.75,16.3,22.51,26.5,30.428
+NV,"Installation, Maintenance, and Repair",29.16,17.66,22.27,37.9,46.58,40.036
+NV,Legal,47.46,24.5,30.75,77.42,107.57,7.838
+NV,"Life, Physical, and Social Science",38.61,22.76,28.82,49.44,63.15,7.105
+NV,Management,49.78,24.34,34.86,73.7,104.94,71.574
+NV,Office and Administrative Support,22.14,15.45,18.3,27.24,33.36,120.143
+NV,Personal Care and Service,15.73,12.0,12.52,22.53,33.48,41.369
+NV,Production,22.61,15.39,17.84,28.24,35.73,35.925
+NV,Protective Service,21.51,14.61,17.0,34.48,48.5,34.041
+NV,Sales and Related,17.81,12.98,14.21,25.01,39.54,86.264
+NV,Transportation and Material Moving,20.14,14.34,17.61,26.21,36.12,96.118
+NY,Architecture and Engineering,47.32,29.03,36.8,61.65,78.25,11.05
+NY,"Arts, Design, Entertainment, Sports, and Media",39.55,21.02,28.81,61.32,83.72,20.936
+NY,Building and Grounds Cleaning and Maintenance,21.08,16.69,17.66,25.73,30.58,32.227
+NY,Business and Financial Operations,48.35,28.15,36.52,64.64,85.13,74.974
+NY,Community and Social Service,29.6,19.58,23.36,37.94,48.12,21.585
+NY,Computer and Mathematical,61.71,30.59,41.86,81.55,102.88,32.492
+NY,Construction and Extraction,33.85,21.14,25.0,45.75,59.7,33.024
+NY,Educational Instruction and Library,32.84,17.47,22.07,48.98,65.22,72.151
+NY,"Farming, Fishing, and Forestry",21.29,16.5,17.55,25.4,34.47,0.504
+NY,Food Preparation and Serving Related,18.2,15.96,16.68,23.43,31.47,75.259
+NY,Healthcare Practitioners and Technical,49.99,26.18,36.8,64.82,91.28,63.749
+NY,Healthcare Support,19.17,17.77,18.62,22.0,24.65,89.277
+NY,"Installation, Maintenance, and Repair",30.1,19.0,23.13,39.23,49.64,33.537
+NY,Legal,66.09,28.62,38.83,111.82,181.47,13.991
+NY,"Life, Physical, and Social Science",40.29,24.7,31.27,57.53,71.66,8.726
+NY,Management,79.46,37.23,51.35,107.49,160.23,69.805
+NY,Office and Administrative Support,24.89,17.55,20.89,31.68,40.39,117.225
+NY,Personal Care and Service,18.39,16.11,16.78,23.16,30.91,21.728
+NY,Production,22.89,16.96,18.49,29.56,38.39,29.835
+NY,Protective Service,27.11,17.36,18.74,39.33,51.76,33.306
+NY,Sales and Related,21.82,16.44,17.47,38.3,72.26,78.46
+NY,Transportation and Material Moving,22.49,16.76,18.3,29.6,40.61,66.157
+OH,Architecture and Engineering,45.72,27.92,36.31,58.4,72.26,18.634
+OH,"Arts, Design, Entertainment, Sports, and Media",24.87,14.48,18.45,36.43,48.99,11.036
+OH,Building and Grounds Cleaning and Maintenance,17.56,13.65,14.89,21.33,24.04,27.098
+OH,Business and Financial Operations,37.74,22.72,29.12,49.07,63.23,63.159
+OH,Community and Social Service,25.74,17.6,21.54,32.34,39.76,16.593
+OH,Computer and Mathematical,48.17,25.08,35.24,62.49,77.37,27.268
+OH,Construction and Extraction,29.88,19.5,23.32,37.92,46.12,35.48
+OH,Educational Instruction and Library,29.38,14.42,19.02,38.74,48.36,58.142
+OH,"Farming, Fishing, and Forestry",19.15,13.22,15.55,24.54,30.19,0.922
+OH,Food Preparation and Serving Related,14.57,11.32,13.36,17.89,22.67,89.124
+OH,Healthcare Practitioners and Technical,38.86,22.17,30.06,49.4,72.8,73.797
+OH,Healthcare Support,18.04,14.24,16.41,21.38,23.84,43.967
+OH,"Installation, Maintenance, and Repair",28.76,17.76,22.39,35.81,43.67,39.957
+OH,Legal,44.63,22.92,29.7,74.73,102.77,6.224
+OH,"Life, Physical, and Social Science",38.06,22.87,29.23,50.38,65.28,7.558
+OH,Management,50.85,26.13,36.38,76.45,102.54,72.982
+OH,Office and Administrative Support,22.43,15.23,18.31,27.78,34.49,110.013
+OH,Personal Care and Service,15.51,11.39,13.39,20.3,27.65,17.076
+OH,Production,22.68,16.73,18.5,28.52,35.24,81.35
+OH,Protective Service,25.01,14.3,17.25,35.89,46.41,21.578
+OH,Sales and Related,17.52,12.55,14.03,28.35,45.7,82.716
+OH,Transportation and Material Moving,20.62,14.24,17.13,25.11,32.41,95.323
+OK,Architecture and Engineering,44.45,25.01,33.05,59.1,73.36,14.645
+OK,"Arts, Design, Entertainment, Sports, and Media",24.38,13.13,17.75,34.82,49.22,9.278
+OK,Building and Grounds Cleaning and Maintenance,15.58,11.2,13.55,17.86,21.86,29.771
+OK,Business and Financial Operations,36.23,20.63,26.66,48.18,62.23,56.519
+OK,Community and Social Service,22.51,15.72,19.02,28.89,38.46,17.128
+OK,Computer and Mathematical,39.47,22.38,29.08,53.58,69.89,23.709
+OK,Construction and Extraction,23.38,17.25,19.28,30.12,39.0,50.306
+OK,Educational Instruction and Library,23.02,11.6,17.17,28.77,37.9,59.491
+OK,"Farming, Fishing, and Forestry",17.41,11.26,14.0,23.19,27.89,1.52
+OK,Food Preparation and Serving Related,13.04,8.49,10.5,16.0,19.39,97.812
+OK,Healthcare Practitioners and Technical,37.77,18.85,25.64,48.41,68.12,66.532
+OK,Healthcare Support,17.02,12.37,13.81,19.29,23.06,38.43
+OK,"Installation, Maintenance, and Repair",26.44,16.1,19.35,35.11,46.18,53.914
+OK,Legal,37.8,18.21,24.76,61.09,83.97,7.27
+OK,"Life, Physical, and Social Science",35.54,20.02,25.43,46.96,60.9,7.039
+OK,Management,48.07,24.03,33.62,68.77,98.12,57.882
+OK,Office and Administrative Support,20.19,13.63,16.74,24.74,31.72,124.732
+OK,Personal Care and Service,14.14,10.17,11.15,18.14,25.56,18.651
+OK,Production,22.04,14.79,17.67,28.25,35.54,58.909
+OK,Protective Service,22.32,14.27,17.42,31.17,44.61,24.882
+OK,Sales and Related,16.01,10.98,13.35,23.31,38.32,90.281
+OK,Transportation and Material Moving,18.15,13.5,15.34,23.68,32.49,91.298
+OR,Architecture and Engineering,49.94,30.52,38.84,65.69,83.87,21.378
+OR,"Arts, Design, Entertainment, Sports, and Media",30.92,18.74,23.08,47.1,65.87,15.725
+OR,Building and Grounds Cleaning and Maintenance,20.34,16.49,17.69,23.16,28.68,29.463
+OR,Business and Financial Operations,40.73,25.69,31.57,53.56,67.94,67.762
+OR,Community and Social Service,29.74,21.36,24.14,37.47,47.67,27.112
+OR,Computer and Mathematical,52.74,28.96,38.37,74.8,89.88,32.479
+OR,Construction and Extraction,31.79,21.42,24.67,47.25,58.44,45.148
+OR,Educational Instruction and Library,29.37,17.5,22.26,39.41,50.13,59.959
+OR,"Farming, Fishing, and Forestry",17.82,15.0,16.11,24.04,29.67,6.287
+OR,Food Preparation and Serving Related,18.11,15.06,16.6,22.33,29.15,92.905
+OR,Healthcare Practitioners and Technical,56.74,27.32,39.52,66.76,103.79,55.011
+OR,Healthcare Support,22.82,18.34,20.12,26.28,29.51,46.564
+OR,"Installation, Maintenance, and Repair",29.77,19.94,23.57,38.42,48.28,36.843
+OR,Legal,44.13,24.39,29.8,73.98,101.57,7.059
+OR,"Life, Physical, and Social Science",38.62,23.05,28.82,49.66,63.18,12.106
+OR,Management,60.01,30.0,40.77,82.09,109.39,63.803
+OR,Office and Administrative Support,24.23,17.85,21.03,29.4,36.02,109.495
+OR,Personal Care and Service,20.0,16.62,18.57,22.14,29.51,29.255
+OR,Production,23.91,17.83,20.73,29.94,38.62,54.904
+OR,Protective Service,28.49,18.15,21.17,40.95,49.42,19.494
+OR,Sales and Related,20.12,15.68,17.07,28.85,44.61,79.793
+OR,Transportation and Material Moving,22.32,16.75,18.33,28.08,34.55,87.453
+PA,Architecture and Engineering,44.39,27.26,35.38,58.61,72.11,15.048
+PA,"Arts, Design, Entertainment, Sports, and Media",27.67,15.0,20.0,38.64,52.82,11.032
+PA,Building and Grounds Cleaning and Maintenance,17.88,13.67,15.39,21.92,26.0,27.424
+PA,Business and Financial Operations,37.99,22.81,29.09,50.3,65.34,63.154
+PA,Community and Social Service,25.17,17.6,21.13,31.82,40.4,20.236
+PA,Computer and Mathematical,48.04,25.86,35.3,62.92,79.95,29.904
+PA,Construction and Extraction,29.1,19.54,23.17,37.14,48.5,36.12
+PA,Educational Instruction and Library,29.72,14.85,19.06,39.4,49.79,60.734
+PA,"Farming, Fishing, and Forestry",18.72,13.42,16.8,23.37,28.56,1.278
+PA,Food Preparation and Serving Related,14.79,10.4,12.86,18.29,23.09,80.773
+PA,Healthcare Practitioners and Technical,39.23,21.14,29.22,50.88,72.89,72.179
+PA,Healthcare Support,16.47,13.3,13.94,20.7,22.94,65.292
+PA,"Installation, Maintenance, and Repair",28.61,17.97,22.41,35.7,43.82,37.051
+PA,Legal,46.26,23.82,30.5,81.5,110.04,7.777
+PA,"Life, Physical, and Social Science",38.94,23.49,29.99,52.55,77.54,9.837
+PA,Management,55.93,28.55,38.26,79.32,105.79,75.968
+PA,Office and Administrative Support,22.46,15.42,18.36,28.07,34.93,108.728
+PA,Personal Care and Service,16.77,10.6,13.45,22.12,28.66,21.836
+PA,Production,22.94,16.58,18.48,28.77,35.89,60.363
+PA,Protective Service,22.93,14.85,17.31,37.5,46.95,22.359
+PA,Sales and Related,17.62,12.26,13.98,28.48,45.72,78.286
+PA,Transportation and Material Moving,21.34,14.12,17.31,26.48,31.58,94.621
+RI,Architecture and Engineering,50.56,31.07,39.13,65.18,81.1,18.412
+RI,"Arts, Design, Entertainment, Sports, and Media",31.29,17.49,23.27,42.1,57.52,15.256
+RI,Building and Grounds Cleaning and Maintenance,20.87,15.14,17.48,22.69,29.0,32.175
+RI,Business and Financial Operations,41.46,25.96,31.75,55.0,71.42,78.032
+RI,Community and Social Service,29.31,19.19,22.94,38.97,47.45,23.254
+RI,Computer and Mathematical,50.82,30.23,39.82,65.09,80.27,32.701
+RI,Construction and Extraction,30.31,20.25,24.24,39.67,51.07,35.707
+RI,Educational Instruction and Library,31.49,16.92,21.62,45.67,49.13,70.17
+RI,"Farming, Fishing, and Forestry",18.92,15.0,16.96,23.99,28.76,0.662
+RI,Food Preparation and Serving Related,16.81,15.0,15.0,21.62,27.61,104.185
+RI,Healthcare Practitioners and Technical,46.59,23.33,35.69,60.96,83.34,67.184
+RI,Healthcare Support,22.2,17.76,20.59,23.01,26.84,51.008
+RI,"Installation, Maintenance, and Repair",29.29,18.32,23.0,37.08,46.19,32.099
+RI,Legal,37.75,21.37,27.04,64.64,104.58,8.883
+RI,"Life, Physical, and Social Science",42.89,23.55,31.04,54.9,71.17,8.551
+RI,Management,61.51,33.36,44.95,84.86,124.03,63.608
+RI,Office and Administrative Support,23.94,17.55,20.7,29.91,36.97,109.111
+RI,Personal Care and Service,17.4,15.0,15.14,21.89,30.06,21.061
+RI,Production,23.73,16.62,18.5,30.66,39.27,55.09
+RI,Protective Service,28.61,15.21,17.76,36.61,44.12,25.923
+RI,Sales and Related,20.33,15.03,16.43,31.7,51.57,84.155
+RI,Transportation and Material Moving,21.6,15.07,17.31,27.58,32.3,62.774
+SC,Architecture and Engineering,45.32,25.55,34.21,59.77,70.08,20.061
+SC,"Arts, Design, Entertainment, Sports, and Media",24.39,13.35,18.24,36.99,51.17,9.076
+SC,Building and Grounds Cleaning and Maintenance,16.63,11.73,13.96,18.48,22.77,30.24
+SC,Business and Financial Operations,37.37,22.27,28.5,49.71,68.59,56.691
+SC,Community and Social Service,24.38,16.72,19.45,30.82,39.77,13.686
+SC,Computer and Mathematical,46.3,23.49,31.92,62.66,81.03,24.836
+SC,Construction and Extraction,23.83,17.3,19.99,30.3,38.65,37.152
+SC,Educational Instruction and Library,28.57,13.25,18.68,36.0,40.15,52.546
+SC,"Farming, Fishing, and Forestry",21.6,14.12,16.72,25.03,32.13,1.367
+SC,Food Preparation and Serving Related,13.77,8.51,10.74,17.13,21.54,99.579
+SC,Healthcare Practitioners and Technical,38.34,19.61,28.6,49.01,75.48,63.391
+SC,Healthcare Support,17.05,13.12,14.41,19.43,23.22,40.779
+SC,"Installation, Maintenance, and Repair",26.46,17.15,20.93,33.62,39.73,44.477
+SC,Legal,33.03,19.43,23.8,56.6,91.55,7.562
+SC,"Life, Physical, and Social Science",36.49,22.6,27.16,48.65,64.17,7.223
+SC,Management,53.19,28.23,38.06,77.25,103.13,55.037
+SC,Office and Administrative Support,20.92,14.03,17.33,25.77,32.64,123.94
+SC,Personal Care and Service,14.93,10.27,12.37,19.54,26.4,21.838
+SC,Production,22.44,16.38,18.33,28.58,35.71,77.655
+SC,Protective Service,21.8,13.79,16.77,28.49,36.08,23.494
+SC,Sales and Related,17.17,11.05,13.63,25.85,43.91,99.919
+SC,Transportation and Material Moving,18.56,13.63,16.49,23.03,29.78,89.453
+SD,Architecture and Engineering,39.44,23.95,30.43,49.33,61.33,14.348
+SD,"Arts, Design, Entertainment, Sports, and Media",22.13,14.47,17.3,28.7,36.21,10.676
+SD,Building and Grounds Cleaning and Maintenance,16.91,13.76,14.67,19.22,22.81,37.239
+SD,Business and Financial Operations,37.37,25.61,30.21,47.42,60.28,55.888
+SD,Community and Social Service,24.63,18.48,21.51,29.64,35.63,17.815
+SD,Computer and Mathematical,39.14,23.19,29.77,53.22,76.05,21.137
+SD,Construction and Extraction,24.1,18.1,21.8,30.0,36.6,57.275
+SD,Educational Instruction and Library,23.49,13.22,16.63,28.21,31.87,57.507
+SD,"Farming, Fishing, and Forestry",20.98,16.12,18.02,23.53,27.39,3.668
+SD,Food Preparation and Serving Related,14.45,13.17,13.77,17.05,20.0,98.875
+SD,Healthcare Practitioners and Technical,37.37,22.55,28.48,46.79,71.31,77.517
+SD,Healthcare Support,18.84,15.24,17.71,21.89,23.54,35.83
+SD,"Installation, Maintenance, and Repair",28.31,19.0,22.55,34.72,41.81,43.916
+SD,Legal,42.5,24.8,29.9,60.03,88.99,4.832
+SD,"Life, Physical, and Social Science",31.52,19.84,24.59,40.12,50.18,10.282
+SD,Management,53.01,28.1,38.89,74.99,99.74,38.446
+SD,Office and Administrative Support,21.16,15.01,17.85,24.01,28.67,115.512
+SD,Personal Care and Service,16.75,13.1,13.74,19.92,24.36,26.067
+SD,Production,22.22,16.98,18.96,26.24,31.03,68.303
+SD,Protective Service,25.07,15.48,18.94,30.34,37.23,16.481
+SD,Sales and Related,17.81,13.53,14.4,29.75,46.0,101.656
+SD,Transportation and Material Moving,19.32,14.01,17.2,23.9,30.46,86.73
+TN,Architecture and Engineering,41.17,24.0,31.71,54.47,68.59,13.754
+TN,"Arts, Design, Entertainment, Sports, and Media",24.2,13.95,17.41,35.91,50.48,12.563
+TN,Building and Grounds Cleaning and Maintenance,16.82,13.1,14.3,18.66,22.91,26.713
+TN,Business and Financial Operations,36.4,21.49,27.57,47.68,62.5,57.798
+TN,Community and Social Service,24.95,17.49,21.0,30.64,37.5,14.548
+TN,Computer and Mathematical,42.02,23.74,30.53,59.88,74.31,25.251
+TN,Construction and Extraction,24.29,17.72,21.03,30.74,38.83,38.388
+TN,Educational Instruction and Library,28.3,13.66,18.94,31.88,39.11,47.329
+TN,"Farming, Fishing, and Forestry",17.86,13.42,15.0,21.5,24.8,1.276
+TN,Food Preparation and Serving Related,14.09,9.82,11.51,17.7,22.43,91.998
+TN,Healthcare Practitioners and Technical,37.79,20.8,28.49,48.99,68.08,66.539
+TN,Healthcare Support,17.9,14.24,15.54,21.07,24.31,33.562
+TN,"Installation, Maintenance, and Repair",27.12,17.41,21.28,34.57,42.95,43.933
+TN,Legal,40.33,22.01,28.1,70.31,104.22,5.615
+TN,"Life, Physical, and Social Science",36.73,22.54,27.59,48.28,63.01,6.741
+TN,Management,55.3,28.51,38.55,78.84,105.85,65.758
+TN,Office and Administrative Support,21.81,14.86,17.74,27.3,35.06,129.94
+TN,Personal Care and Service,15.48,10.9,13.51,18.65,24.18,17.573
+TN,Production,21.71,15.46,17.87,27.0,35.04,79.781
+TN,Protective Service,22.41,14.48,17.19,30.19,37.55,23.462
+TN,Sales and Related,17.18,11.41,13.81,26.97,39.8,84.852
+TN,Transportation and Material Moving,20.14,14.43,17.12,24.18,33.96,112.626
+TX,Architecture and Engineering,47.37,24.69,35.05,63.3,82.5,17.702
+TX,"Arts, Design, Entertainment, Sports, and Media",25.62,14.4,18.15,37.21,50.93,10.038
+TX,Building and Grounds Cleaning and Maintenance,16.65,11.4,13.76,18.71,22.75,25.174
+TX,Business and Financial Operations,38.26,22.36,29.08,50.49,65.75,65.545
+TX,Community and Social Service,27.09,17.79,21.77,35.3,43.72,10.79
+TX,Computer and Mathematical,51.01,26.92,37.34,67.74,81.85,36.341
+TX,Construction and Extraction,23.64,17.48,20.12,29.83,38.2,47.9
+TX,Educational Instruction and Library,29.69,13.91,19.0,34.46,40.19,58.929
+TX,"Farming, Fishing, and Forestry",17.0,12.53,14.34,20.75,27.63,1.068
+TX,Food Preparation and Serving Related,13.75,8.85,10.99,17.23,21.42,92.333
+TX,Healthcare Practitioners and Technical,39.89,20.74,29.23,54.0,74.71,57.007
+TX,Healthcare Support,14.28,10.79,11.37,18.72,23.23,43.233
+TX,"Installation, Maintenance, and Repair",27.26,16.94,20.98,35.81,45.74,46.309
+TX,Legal,48.11,22.46,30.0,80.76,139.0,7.181
+TX,"Life, Physical, and Social Science",37.02,21.16,27.36,49.44,66.12,7.757
+TX,Management,57.42,26.39,37.85,81.67,109.77,86.259
+TX,Office and Administrative Support,21.75,14.22,17.48,27.29,35.03,122.653
+TX,Personal Care and Service,15.0,10.52,12.71,19.97,27.82,15.024
+TX,Production,21.41,14.19,17.33,28.15,38.21,48.802
+TX,Protective Service,24.67,13.89,17.5,35.19,45.85,22.726
+TX,Sales and Related,17.68,11.68,14.0,28.7,47.51,85.297
+TX,Transportation and Material Moving,20.37,13.84,16.68,24.67,33.75,91.933
+UT,Architecture and Engineering,45.72,26.78,35.91,59.18,72.0,20.296
+UT,"Arts, Design, Entertainment, Sports, and Media",26.42,14.61,18.65,38.05,52.48,13.85
+UT,Building and Grounds Cleaning and Maintenance,17.76,13.23,14.8,21.83,25.71,31.113
+UT,Business and Financial Operations,36.74,21.33,26.82,48.67,62.7,72.827
+UT,Community and Social Service,26.73,16.95,19.2,38.54,49.08,16.354
+UT,Computer and Mathematical,49.91,25.62,36.74,64.91,81.23,42.271
+UT,Construction and Extraction,27.48,18.27,22.39,32.95,39.54,65.616
+UT,Educational Instruction and Library,27.85,14.3,17.96,37.85,48.47,57.409
+UT,"Farming, Fishing, and Forestry",19.85,11.57,14.59,21.49,29.0,0.716
+UT,Food Preparation and Serving Related,14.85,10.61,13.35,18.11,23.02,78.411
+UT,Healthcare Practitioners and Technical,39.55,19.39,27.85,51.12,74.84,50.486
+UT,Healthcare Support,18.63,15.15,17.19,22.08,24.29,31.628
+UT,"Installation, Maintenance, and Repair",28.42,17.51,21.98,36.09,43.9,39.285
+UT,Legal,43.84,23.14,28.52,69.84,112.07,7.292
+UT,"Life, Physical, and Social Science",36.88,19.39,26.13,47.87,61.91,9.676
+UT,Management,56.95,26.86,38.58,79.67,105.51,75.896
+UT,Office and Administrative Support,21.93,15.5,18.16,27.13,34.39,127.775
+UT,Personal Care and Service,16.65,10.82,13.56,21.67,28.24,23.993
+UT,Production,22.31,16.82,18.49,28.41,36.23,59.774
+UT,Protective Service,24.14,14.68,18.07,36.98,47.52,16.417
+UT,Sales and Related,18.47,13.37,14.93,29.37,44.85,81.095
+UT,Transportation and Material Moving,21.91,15.15,17.83,28.29,35.13,77.819
+VA,Architecture and Engineering,48.26,29.55,37.65,63.37,79.84,18.609
+VA,"Arts, Design, Entertainment, Sports, and Media",30.07,16.6,21.61,44.25,60.81,12.875
+VA,Building and Grounds Cleaning and Maintenance,17.31,13.8,15.0,20.77,24.87,31.185
+VA,Business and Financial Operations,45.68,24.91,32.54,61.3,78.81,94.377
+VA,Community and Social Service,28.59,18.1,22.45,36.95,46.54,16.371
+VA,Computer and Mathematical,61.88,32.32,45.49,79.58,97.07,60.396
+VA,Construction and Extraction,27.14,18.08,21.98,33.71,41.0,43.07
+VA,Educational Instruction and Library,29.38,16.88,21.31,38.49,50.71,61.559
+VA,"Farming, Fishing, and Forestry",19.71,14.9,16.82,24.02,30.13,1.167
+VA,Food Preparation and Serving Related,16.88,13.32,14.14,20.72,26.91,82.674
+VA,Healthcare Practitioners and Technical,41.96,22.27,30.7,56.64,81.59,56.113
+VA,Healthcare Support,18.08,13.36,14.7,21.98,25.8,39.643
+VA,"Installation, Maintenance, and Repair",28.76,17.96,22.42,36.8,45.58,37.736
+VA,Legal,53.03,26.93,35.51,88.99,106.21,8.986
+VA,"Life, Physical, and Social Science",41.19,23.29,31.15,61.64,85.73,10.529
+VA,Management,68.14,31.25,46.74,94.47,131.76,64.87
+VA,Office and Administrative Support,22.68,15.89,18.44,28.5,36.15,103.676
+VA,Personal Care and Service,17.17,12.97,14.14,21.6,28.42,22.924
+VA,Production,22.48,15.34,17.94,28.89,36.52,39.876
+VA,Protective Service,24.58,14.88,18.5,34.56,45.16,27.79
+VA,Sales and Related,17.99,13.5,14.79,28.89,48.0,86.467
+VA,Transportation and Material Moving,21.28,14.43,17.15,26.66,34.8,79.105
+VT,Architecture and Engineering,42.93,28.87,35.78,56.55,73.56,18.515
+VT,"Arts, Design, Entertainment, Sports, and Media",30.03,18.68,22.64,39.62,51.72,15.647
+VT,Building and Grounds Cleaning and Maintenance,20.94,16.54,18.15,23.17,28.91,35.978
+VT,Business and Financial Operations,37.52,24.91,30.71,47.82,61.23,57.819
+VT,Community and Social Service,27.56,20.81,23.23,32.65,39.24,31.383
+VT,Computer and Mathematical,46.0,27.83,34.57,61.35,81.73,25.401
+VT,Construction and Extraction,28.72,22.08,23.83,31.71,39.09,47.11
+VT,Educational Instruction and Library,29.63,18.02,22.76,38.47,48.99,83.775
+VT,"Farming, Fishing, and Forestry",22.48,16.62,16.8,27.13,34.68,1.759
+VT,Food Preparation and Serving Related,18.37,14.53,16.67,23.24,31.19,86.556
+VT,Healthcare Practitioners and Technical,42.01,23.19,32.22,57.36,81.53,71.499
+VT,Healthcare Support,22.02,15.07,18.0,22.99,27.44,47.198
+VT,"Installation, Maintenance, and Repair",28.86,21.43,23.75,35.94,43.73,35.846
+VT,Legal,48.43,28.42,36.01,75.18,140.57,7.237
+VT,"Life, Physical, and Social Science",36.21,24.61,29.79,45.29,54.75,10.654
+VT,Management,51.69,30.74,39.29,73.87,103.5,81.602
+VT,Office and Administrative Support,23.83,18.23,21.12,28.81,33.68,102.604
+VT,Personal Care and Service,18.77,15.01,17.29,23.03,29.15,22.883
+VT,Production,23.6,18.0,20.5,28.9,36.82,50.681
+VT,Protective Service,27.36,17.47,21.54,34.96,44.78,15.914
+VT,Sales and Related,19.15,15.0,17.16,28.13,39.77,81.3
+VT,Transportation and Material Moving,21.85,15.42,17.81,27.34,31.19,68.638
+WA,Architecture and Engineering,54.04,33.47,41.91,67.8,82.67,22.068
+WA,"Arts, Design, Entertainment, Sports, and Media",31.18,19.14,22.98,46.25,63.68,13.091
+WA,Building and Grounds Cleaning and Maintenance,22.0,17.78,18.88,26.08,29.91,27.206
+WA,Business and Financial Operations,47.13,28.94,36.73,62.29,80.51,83.278
+WA,Community and Social Service,32.53,22.4,26.55,41.46,50.12,19.181
+WA,Computer and Mathematical,65.78,33.75,47.79,84.39,102.79,67.509
+WA,Construction and Extraction,36.3,23.0,28.23,48.94,62.26,47.28
+WA,Educational Instruction and Library,31.93,20.03,23.76,48.87,60.15,56.107
+WA,"Farming, Fishing, and Forestry",19.39,16.71,17.3,21.63,31.0,6.122
+WA,Food Preparation and Serving Related,21.44,17.04,17.81,25.59,31.26,82.992
+WA,Healthcare Practitioners and Technical,52.3,27.74,39.4,66.54,92.34,54.201
+WA,Healthcare Support,23.27,19.42,22.0,26.81,31.68,53.168
+WA,"Installation, Maintenance, and Repair",33.22,21.7,25.65,43.93,54.13,37.704
+WA,Legal,51.48,28.98,38.17,78.12,105.19,7.503
+WA,"Life, Physical, and Social Science",45.27,26.82,34.76,58.3,72.97,13.157
+WA,Management,76.92,42.23,56.7,99.93,139.02,51.106
+WA,Office and Administrative Support,27.24,19.36,22.46,32.76,39.35,104.873
+WA,Personal Care and Service,22.67,17.27,18.75,29.04,38.15,19.591
+WA,Production,26.63,18.64,21.72,35.24,50.33,44.957
+WA,Protective Service,29.85,18.27,21.75,46.48,59.52,21.923
+WA,Sales and Related,22.84,17.47,18.58,34.99,50.39,82.8
+WA,Transportation and Material Moving,24.28,18.05,20.94,30.71,38.59,84.184
+WI,Architecture and Engineering,40.47,28.47,34.5,49.83,62.04,17.315
+WI,"Arts, Design, Entertainment, Sports, and Media",27.46,15.47,19.91,36.55,47.19,11.474
+WI,Building and Grounds Cleaning and Maintenance,18.13,14.34,16.67,21.93,26.54,29.707
+WI,Business and Financial Operations,37.54,23.53,29.53,48.35,61.98,62.359
+WI,Community and Social Service,28.83,19.1,23.02,35.15,40.64,14.337
+WI,Computer and Mathematical,46.2,26.21,32.8,60.98,74.55,27.732
+WI,Construction and Extraction,30.6,21.03,24.28,40.71,48.56,39.849
+WI,Educational Instruction and Library,28.06,16.62,19.28,36.58,44.79,55.474
+WI,"Farming, Fishing, and Forestry",20.28,13.55,16.09,23.76,29.33,1.696
+WI,Food Preparation and Serving Related,14.5,10.08,12.28,17.89,22.31,84.344
+WI,Healthcare Practitioners and Technical,41.32,22.95,31.92,52.02,81.34,64.525
+WI,Healthcare Support,18.49,14.09,17.12,22.25,24.64,50.405
+WI,"Installation, Maintenance, and Repair",29.16,18.45,23.06,36.46,44.37,38.472
+WI,Legal,42.67,22.86,28.96,65.55,115.2,5.327
+WI,"Life, Physical, and Social Science",36.31,22.61,28.35,45.44,58.51,8.913
+WI,Management,59.3,30.92,42.32,79.63,104.8,57.833
+WI,Office and Administrative Support,22.87,16.46,19.03,27.99,33.76,112.139
+WI,Personal Care and Service,17.31,11.53,14.2,22.3,28.43,18.7
+WI,Production,23.31,17.61,20.0,28.7,34.59,100.141
+WI,Protective Service,28.9,15.0,18.21,37.8,44.57,18.505
+WI,Sales and Related,18.45,13.48,14.91,29.79,45.73,87.312
+WI,Transportation and Material Moving,21.8,14.34,17.17,26.92,30.8,93.443
+WV,Architecture and Engineering,40.6,22.64,30.13,56.39,70.71,13.674
+WV,"Arts, Design, Entertainment, Sports, and Media",22.03,13.74,16.72,30.42,45.24,7.243
+WV,Building and Grounds Cleaning and Maintenance,14.98,11.23,13.2,18.14,23.5,31.281
+WV,Business and Financial Operations,33.61,19.7,24.69,45.59,59.15,46.051
+WV,Community and Social Service,23.41,16.71,18.89,28.75,35.63,20.648
+WV,Computer and Mathematical,38.81,21.88,27.66,58.91,75.55,20.69
+WV,Construction and Extraction,27.7,17.13,20.79,35.38,42.4,60.82
+WV,Educational Instruction and Library,25.39,14.24,20.39,29.38,36.96,60.165
+WV,"Farming, Fishing, and Forestry",17.79,11.63,14.0,24.04,29.87,1.359
+WV,Food Preparation and Serving Related,13.31,10.31,10.92,16.58,21.49,86.615
+WV,Healthcare Practitioners and Technical,36.79,19.02,26.37,49.02,71.09,91.857
+WV,Healthcare Support,15.49,11.08,13.45,18.07,21.93,57.121
+WV,"Installation, Maintenance, and Repair",23.91,14.86,17.96,33.47,44.14,50.454
+WV,Legal,38.49,20.24,28.29,51.86,77.46,7.564
+WV,"Life, Physical, and Social Science",32.89,19.55,24.16,45.44,58.8,10.4
+WV,Management,45.0,23.35,31.5,63.38,86.82,59.986
+WV,Office and Administrative Support,18.79,13.42,15.98,23.55,29.57,114.918
+WV,Personal Care and Service,14.15,10.47,11.96,17.85,24.0,17.123
+WV,Production,22.35,14.32,17.91,29.12,37.59,48.715
+WV,Protective Service,21.82,10.17,14.5,27.39,34.39,23.038
+WV,Sales and Related,14.59,10.58,12.09,19.2,30.15,84.908
+WV,Transportation and Material Moving,17.89,13.15,14.86,23.15,29.92,85.37
+WY,Architecture and Engineering,46.04,27.67,35.15,59.28,73.68,16.603
+WY,"Arts, Design, Entertainment, Sports, and Media",24.1,14.52,18.44,33.1,47.48,8.59
+WY,Building and Grounds Cleaning and Maintenance,17.65,13.3,14.84,21.29,24.18,38.621
+WY,Business and Financial Operations,36.69,22.94,28.8,48.91,62.39,45.978
+WY,Community and Social Service,27.99,17.58,22.56,35.53,44.18,14.888
+WY,Computer and Mathematical,40.74,24.78,31.63,55.37,73.6,15.772
+WY,Construction and Extraction,28.73,20.0,23.07,37.23,44.23,90.897
+WY,Educational Instruction and Library,25.19,14.9,17.92,31.07,37.82,72.047
+WY,"Farming, Fishing, and Forestry",18.71,10.94,15.0,22.27,28.0,2.684
+WY,Food Preparation and Serving Related,14.18,9.76,10.81,18.12,23.35,91.746
+WY,Healthcare Practitioners and Technical,39.97,22.36,30.41,51.61,77.62,52.76
+WY,Healthcare Support,18.28,14.24,15.68,22.39,27.76,33.523
+WY,"Installation, Maintenance, and Repair",29.59,18.14,22.53,39.55,51.18,61.768
+WY,Legal,31.25,21.35,23.75,50.85,73.81,6.162
+WY,"Life, Physical, and Social Science",35.33,22.33,26.6,43.26,52.55,15.704
+WY,Management,48.48,24.31,32.69,65.63,90.2,60.171
+WY,Office and Administrative Support,21.96,15.04,18.08,26.39,31.89,102.444
+WY,Personal Care and Service,16.08,10.85,13.18,22.31,29.27,21.091
+WY,Production,28.51,16.21,20.65,40.82,54.8,46.996
+WY,Protective Service,26.63,15.89,18.96,33.76,39.16,25.131
+WY,Sales and Related,17.62,13.17,14.37,23.87,36.99,85.282
+WY,Transportation and Material Moving,22.8,15.15,18.3,30.26,38.83,91.142
