@@ -522,6 +522,15 @@ def make_occupation_bullet(
 
 
 state_occupation_data = df_by_state_and_oc.reset_index()
+occupations = sorted(
+    set(state_occupation_data["OCC_TITLE"].dropna())
+    & set(df_by_occupation.index)
+)
+
+# Put All Occupations first.
+if "All Occupations" in occupations:
+    occupations.remove("All Occupations")
+    occupations.insert(0, "All Occupations")
 
 states = sorted(
     state_occupation_data["PRIM_STATE"]
@@ -593,7 +602,8 @@ summary_stat_widget.name = (
 occupation_widget = pn.widgets.Select(
     name="Occupational group — map and bullet chart",
     options=occupations,
-    value=default_occupation,
+    value="All Occupations" if "All Occupations" in occupations
+          else occupations[0],
     width=400,
 )
 
@@ -617,11 +627,17 @@ state_2_widget = pn.widgets.Select(
     width=200,
 )
 
-# Boxplot control.
+# Boxplot control: exclude the All Occupations total.
+box_occupations = [
+    occupation
+    for occupation in occupations
+    if occupation != "All Occupations"
+]
+
 box_occupations_widget = pn.widgets.MultiChoice(
     name="Occupational groups — select up to 5",
-    options=occupations,
-    value=occupations[:3],
+    options=box_occupations,
+    value=box_occupations[:3],
     sizing_mode="stretch_width",
 )
 
@@ -656,12 +672,7 @@ map_occupations = (
     ]
 )
 
-map_occupation_widget = pn.widgets.Select(
-    name="Occupational group — map",
-    options=map_occupations,
-    value="All Occupations",
-    width=400,
-)
+
 # --------------------------------------------------
 # 4. Rendering helpers
 # --------------------------------------------------
@@ -761,7 +772,7 @@ boxplot_view = pn.bind(
 
 map_view = pn.bind(
     render_map,
-    occupation=map_occupation_widget,
+    occupation=occupation_widget,
     statistic=summary_stat_widget,
     map_measure=map_measure_widget,
 )
@@ -800,14 +811,11 @@ boxplot_section = pn.Column(
 
 map_section = pn.Column(
     "## 3. State wage summaries and employment concentration",
-    pn.Row(
-        map_occupation_widget,
-        map_measure_widget,
-    ),
+    map_measure_widget,
     (
-        "Choose All Occupations for statewide estimates, "
-        "or select an individual occupational group. "
-        "The shared Summary Statistic controls the wage map."
+        "The shared occupational-group dropdown controls this map. "
+        "In Summary Statistic mode, the shared statistic dropdown "
+        "determines the map colors."
     ),
     map_view,
     (
@@ -845,9 +853,8 @@ dashboard = pn.Column(
    (
     "The Summary Statistic controls Charts 1 and 4, and Chart 3 "
     "when its map measure is Summary Statistic. "
-    "The occupational group controls Charts 3 and 4. "
+    "The shared occupational group controls Charts 3 and 4. "
     "Chart 2 has its own multiple-group selector."
-    "The summary stats used are averages and percentiles for hourly wages. "
     ),
 
     pn.layout.Divider(),
