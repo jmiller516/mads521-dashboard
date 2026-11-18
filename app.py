@@ -274,40 +274,55 @@ def make_occupation_boxplot(selected_occupations):
     return fig
 
 
-def make_occupation_choropleth(occupation):
-    """Map jobs per 1,000 jobs by state for one occupational group."""
+def make_occupation_choropleth(
+    occupation,
+    statistic="H_MEDIAN",
+    map_measure="Summary Statistic",
+):
+    """Map a selected wage statistic or jobs per 1,000 by state."""
 
-    # PRIM_STATE and OCC_TITLE are index levels.
-    data = df_by_state_and_oc.copy().reset_index()
+    data = df_by_state_and_oc.reset_index().copy()
+
+    valid_statistics = [
+        column
+        for column in data.columns
+        if column not in ["PRIM_STATE", "OCC_TITLE", "JOBS_1000"]
+    ]
+
+    if map_measure == "Jobs per 1,000":
+        metric = "JOBS_1000"
+        label = "Jobs per 1,000 jobs"
+        prefix = ""
+        suffix = ""
+
+    elif map_measure == "Summary Statistic":
+        if statistic not in valid_statistics:
+            raise ValueError(
+                f"Choose a Summary Statistic from: {valid_statistics}"
+            )
+
+        metric = statistic
+        hourly = metric.startswith("H_")
+        label = f"{metric} ($/hour)" if hourly else metric
+        prefix = "$" if hourly else ""
+        suffix = "/hour" if hourly else ""
+
+    else:
+        raise ValueError("Invalid map measure.")
 
     if occupation not in data["OCC_TITLE"].values:
-        raise ValueError(
-            f"Unknown occupational group: {occupation}"
-        )
+        raise ValueError(f"Unknown occupational group: {occupation}")
 
     selected = data.loc[
         data["OCC_TITLE"] == occupation,
-        ["PRIM_STATE", "JOBS_1000"],
+        ["PRIM_STATE", metric],
     ].copy()
 
-    selected["JOBS_1000"] = pd.to_numeric(
-        selected["JOBS_1000"],
+    selected[metric] = pd.to_numeric(
+        selected[metric],
         errors="coerce",
     )
 
-    selected["PRIM_STATE"] = (
-        selected["PRIM_STATE"]
-        .astype("string")
-        .str.strip()
-        .str.upper()
-    )
-
-    if selected["PRIM_STATE"].duplicated().any():
-        raise ValueError(
-            "Expected one row per state for the selected occupation."
-        )
-
-    # Include all 50 states and DC, even when estimates are missing.
     state_codes = (
         "AL AK AZ AR CA CO CT DE DC FL GA HI ID IL IN IA KS KY "
         "LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH "
@@ -327,13 +342,10 @@ def make_occupation_choropleth(occupation):
         map_data,
         locations="PRIM_STATE",
         locationmode="USA-states",
-        color="JOBS_1000",
+        color=metric,
         scope="usa",
         color_continuous_scale="Viridis",
-        labels={
-            "PRIM_STATE": "State",
-            "JOBS_1000": "Jobs per 1,000 jobs",
-        },
+        labels={metric: label},
     )
 
     fig.update_traces(
@@ -342,7 +354,9 @@ def make_occupation_choropleth(occupation):
         hovertemplate=(
             "<b>%{location}</b><br>"
             + f"{occupation}<br>"
-            + "Jobs per 1,000 jobs: %{z:,.2f}"
+            + f"{label}: {prefix}"
+            + "%{z:,.2f}"
+            + suffix
             + "<extra></extra>"
         ),
     )
@@ -361,9 +375,8 @@ def make_occupation_choropleth(occupation):
     fig.update_layout(
         title=dict(
             text=(
-                f"Occupational employment concentration: {occupation}"
+                f"{occupation}: {label}"
                 "<br><sup>"
-                "Jobs per 1,000 jobs by state. "
                 "Uncolored states have no valid estimate."
                 "</sup>"
             )
@@ -372,20 +385,10 @@ def make_occupation_choropleth(occupation):
         height=600,
         margin=dict(l=10, r=10, t=100, b=20),
         coloraxis_colorbar=dict(
-            title="Jobs per<br>1,000 jobs",
+            title=label,
             tickformat=",.2f",
         ),
     )
-
-    if map_data["JOBS_1000"].notna().sum() == 0:
-        fig.add_annotation(
-            text="No valid estimates for this occupational group.",
-            x=0.5,
-            y=0.5,
-            xref="paper",
-            yref="paper",
-            showarrow=False,
-        )
 
     return fig
 
