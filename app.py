@@ -630,32 +630,8 @@ bullet_state_widget = pn.widgets.Select(
 # --------------------------------------------------
 
 def plotly_pane(figure):
-    # Smaller charts; extra room for the dot plot's occupation labels.
-    is_dotplot = any(
-        trace.type == "scatter"
-        for trace in figure.data
-    )
-
-    is_bullet = any(
-        trace.type == "indicator"
-        for trace in figure.data
-    )
-
-    chart_height = (
-        480 if is_dotplot
-        else 250 if is_bullet
-        else 400
-    )
-
-    figure.update_layout(
-        height=chart_height,
-        autosize=True,
-        font=dict(size=11),
-    )
-
     return pn.pane.Plotly(
         figure,
-        height=chart_height,
         sizing_mode="stretch_width",
         config={
             "displaylogo": False,
@@ -832,6 +808,11 @@ dashboard = pn.Column(
 
     sizing_mode="stretch_width",
 )
+# Keep the dashboard responsive, but prevent excessive stretching.
+dashboard.sizing_mode = "stretch_width"
+dashboard.max_width = 1400
+dashboard.margin = (15, 20)
+
 dashboard.servable(
     title="U.S. Occupational Employment and Wage Dashboard"
 )
