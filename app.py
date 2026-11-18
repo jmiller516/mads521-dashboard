@@ -136,132 +136,142 @@ def make_state_comparison(state_1, state_2, statistic="H_MEDIAN"):
     return fig
 # Preview
 
-def make_occupation_bullet(
-    occupation,
-    state,
-    statistic="H_MEDIAN",
-):
-    """Compare a state estimate with its national occupational summary."""
+def make_occupation_boxplot(selected_occupations):
+    """Create percentile boxes without whiskers for up to five groups."""
 
-    state_data = df_by_state_and_oc.copy()
-    national_data = df_by_occupation.copy()
+    if selected_occupations is None:
+        selected_occupations = []
 
-    # Summary Statistic = all non-grouped columns except JOBS_1000.
-    valid_statistics = [
-        column
-        for column in state_data.columns
-        if column != "JOBS_1000"
-        and column in national_data.columns
+    # Accept either one occupation string or a list.
+    if isinstance(selected_occupations, str):
+        selected_occupations = [selected_occupations]
+
+    # Remove duplicate selections while preserving their order.
+    selected_occupations = list(
+        dict.fromkeys(selected_occupations)
+    )
+
+    if len(selected_occupations) > 5:
+        raise ValueError(
+            "Select no more than five occupational groups."
+        )
+
+    data = df_by_occupation.copy()
+
+
+    data = data.reset_index()
+
+    percentile_columns = [
+    "H_PCT10",
+    "H_PCT25",
+    "H_MEDIAN",
+    "H_PCT75",
+    "H_PCT90",
     ]
 
-    if statistic not in valid_statistics:
-        raise ValueError(
-            f"Choose a Summary Statistic from: {valid_statistics}"
-        )
-
-    # Both DataFrames retain their grouping indexes.
-    state_key = (state, occupation)
-
-    if state_key not in state_data.index:
-        raise ValueError(
-            f"No state summary found for {occupation} in {state}."
-        )
-
-    if occupation not in national_data.index:
-        raise ValueError(
-            f"No national summary found for {occupation}."
-        )
-
-    state_value = pd.to_numeric(
-        state_data.loc[state_key, statistic],
+    data[percentile_columns] = data[percentile_columns].apply(
+        pd.to_numeric,
         errors="coerce",
     )
 
-    national_value = pd.to_numeric(
-        national_data.loc[occupation, statistic],
-        errors="coerce",
-    )
+    available = set(data["OCC_TITLE"].dropna())
 
-    if pd.isna(state_value) or pd.isna(national_value):
+    unknown = [
+        occupation
+        for occupation in selected_occupations
+        if occupation not in available
+    ]
+
+    if unknown:
         raise ValueError(
-            "The selected state or national summary is missing "
-            "or nonnumeric."
+            f"Unknown occupational groups: {unknown}"
         )
 
-    state_value = float(state_value)
-    national_value = float(national_value)
-
-    units = " ($/hour)" if statistic.startswith("H_") else ""
-    prefix = "$" if statistic.startswith("H_") else ""
-
-    # Leave space beyond both the state bar and reference line.
-    axis_max = max(state_value, national_value, 1.0) * 1.2
-
-    fig = go.Figure(
-        go.Indicator(
-            mode="number+gauge",
-            value=state_value,
-            number=dict(
-                prefix=prefix,
-                valueformat=",.2f",
-            ),
-            gauge=dict(
-                shape="bullet",
-                axis=dict(
-                    range=[0, axis_max],
-                    tickformat=",.2f",
-                    tickprefix=prefix,
-                ),
-                bar=dict(
-                    color="#0072B2",
-                    thickness=0.5,
-                ),
-                bgcolor="#EEEEEE",
-
-                # Reference line is the selected NATIONAL statistic.
-                threshold=dict(
-                    value=national_value,
-                    line=dict(
-                        color="#222222",
-                        width=4,
-                    ),
-                    thickness=0.85,
-                ),
-            ),
-            domain=dict(
-                x=[0.05, 0.85],
-                y=[0.25, 0.75],
-            ),
-        )
+    selected = (
+        data.set_index("OCC_TITLE")
+        .reindex(selected_occupations)
+        .dropna(subset=percentile_columns)
     )
+
+    # Check that the median falls inside the box.
+    ordered = (
+        (selected["H_PCT10"] <= selected["H_PCT25"])
+        & (selected["H_PCT25"] <= selected["H_MEDIAN"])
+        & (selected["H_MEDIAN"] <= selected["H_PCT75"])
+        & (selected["H_PCT75"] <= selected["H_PCT90"])
+    )
+
+    if not ordered.all():
+        invalid_groups = selected.index[~ordered].tolist()
+        raise ValueError(
+            f"Percentiles are out of order for: {invalid_groups}"
+        )
+
+    fig = go.Figure()
+
+    for occupation, row in selected.iterrows():
+        fig.add_trace(
+            go.Box(
+                x=[occupation],
+                name=occupation,
+                q1=[row["H_PCT25"]],
+                median=[row["H_MEDIAN"]],
+                q3=[row["H_PCT75"]],
+
+                # Whiskers at the 10th and 90th percentiles.
+                lowerfence=[row["H_PCT10"]],
+                upperfence=[row["H_PCT90"]],
+                whiskerwidth=0.5,
+
+                boxpoints=False,
+                showlegend=False,
+                fillcolor="rgba(0, 114, 178, 0.35)",
+                line=dict(color="#0072B2", width=2),
+            )
+        )
 
     fig.update_layout(
         title=dict(
             text=(
-                f"{occupation}: {state} versus national summary"
-                f"<br><sup>{statistic}{units}</sup>"
+                "Occupational wage percentile summaries"
+                "<br><sup>"
+                "Box: 25th–75th percentiles | Middle line: median | "
+                "**Non-Standard Whiskers: 10th and 90th percentiles"
+                "</sup>"
             )
         ),
+        xaxis_title="Occupational group",
+        yaxis_title="Hourly wage summary ($/hour)",
+        boxmode="group",
         template="plotly_white",
-        height=350,
-        margin=dict(l=50, r=50, t=100, b=80),
+        height=600,
+        margin=dict(l=60, r=30, t=110, b=160),
     )
 
-    fig.add_annotation(
-        text=(
-            f"Bar — {state}: {prefix}{state_value:,.2f}"
-            f" | Reference line — national summary: "
-            f"{prefix}{national_value:,.2f}"
-        ),
-        x=0.5,
-        y=0,
-        xref="paper",
-        yref="paper",
-        showarrow=False,
+    fig.update_xaxes(
+        type="category",
+        categoryorder="array",
+        categoryarray=selected_occupations,
+        tickangle=-25,
+        automargin=True,
     )
+
+    fig.update_yaxes(
+        showgrid=True,
+        rangemode="tozero",
+    )
+
+    if selected.empty:
+        fig.add_annotation(
+            text="Select up to five occupational groups with valid data.",
+            x=0.5,
+            y=0.5,
+            xref="paper",
+            yref="paper",
+            showarrow=False,
+        )
 
     return fig
-
 
 
 def make_occupation_choropleth(occupation):
