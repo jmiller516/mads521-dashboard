@@ -584,6 +584,10 @@ summary_stat_widget = pn.widgets.Select(
     width=350,
 )
 
+summary_stat_widget.name = (
+    "Summary Statistic — Charts 1, 3, and 4"
+)
+
 occupation_widget = pn.widgets.Select(
     name="Occupational group — map and bullet chart",
     options=occupations,
@@ -619,6 +623,12 @@ box_occupations_widget = pn.widgets.MultiChoice(
     sizing_mode="stretch_width",
 )
 
+map_measure_widget = pn.widgets.Select(
+    name="Map measure",
+    options=["Summary Statistic", "Jobs per 1,000"],
+    value="Summary Statistic",
+    width=250,
+)
 # Bullet chart control.
 bullet_state_widget = pn.widgets.Select(
     name="State",
@@ -681,13 +691,19 @@ def render_boxplot(selected_occupations):
         return pn.pane.Markdown(f"**Chart unavailable:** {error}")
 
 
-def render_map(occupation):
+def render_map(occupation, statistic, map_measure):
     try:
         return plotly_pane(
-            make_occupation_choropleth(occupation)
+            make_occupation_choropleth(
+                occupation=occupation,
+                statistic=statistic,
+                map_measure=map_measure,
+            )
         )
     except ValueError as error:
-        return pn.pane.Markdown(f"**Chart unavailable:** {error}")
+        return pn.pane.Markdown(
+            f"**Chart unavailable:** {error}"
+        )
 
 
 def render_bullet(occupation, state, statistic):
@@ -722,6 +738,8 @@ boxplot_view = pn.bind(
 map_view = pn.bind(
     render_map,
     occupation=occupation_widget,
+    statistic=summary_stat_widget,
+    map_measure=map_measure_widget,
 )
 
 bullet_view = pn.bind(
@@ -757,12 +775,18 @@ boxplot_section = pn.Column(
 )
 
 map_section = pn.Column(
-    "## 3. Occupational employment concentration",
+    "## 3. State wage summaries and employment concentration",
+    map_measure_widget,
     (
-        "The shared occupational-group dropdown controls this map. "
-        "Colors represent jobs per 1,000 jobs—not job vacancies."
+        "Use the shared occupational-group dropdown to select a group. "
+        "In Summary Statistic mode, the shared Summary Statistic "
+        "dropdown determines the map colors."
     ),
     map_view,
+    (
+        "Jobs per 1,000 measures occupational employment "
+        "concentration—not job vacancies."
+    ),
     sizing_mode="stretch_width",
 )
 
@@ -791,10 +815,11 @@ dashboard = pn.Column(
         summary_stat_widget,
         occupation_widget,
     ),
-    (
-        "The Summary Statistic controls Charts 1 and 4. "
-        "The single occupational group controls Charts 3 and 4. "
-        "Chart 2 has its own multiple-group selector."
+   (
+    "The Summary Statistic controls Charts 1 and 4, and Chart 3 "
+    "when its map measure is Summary Statistic. "
+    "The occupational group controls Charts 3 and 4. "
+    "Chart 2 has its own multiple-group selector."
     ),
 
     pn.layout.Divider(),
