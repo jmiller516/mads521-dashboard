@@ -31,7 +31,9 @@ def make_state_comparison(state_1, state_2, statistic="H_MEDIAN"):
 
 
     data = data.reset_index()
-
+    data = data.loc[
+        data["OCC_TITLE"] != "All Occupations"
+    ].copy()
     # Summary Statistic = all non-grouped columns except JOBS_1000.
     valid_statistics = [
         col for col in data.columns
@@ -494,7 +496,7 @@ def make_occupation_bullet(
     fig.update_layout(
         title=dict(
             text=(
-                f"{occupation}: {state} versus national summary"
+                f"{occupation}: {state} versus national summary value"
                 f"<br><sup>{statistic}{units}</sup>"
             )
         ),
@@ -506,7 +508,7 @@ def make_occupation_bullet(
     fig.add_annotation(
         text=(
             f"Bar — {state}: {prefix}{state_value:,.2f}"
-            f" | Reference line — national summary: "
+            f" | Reference line — national summary value: "
             f"{prefix}{national_value:,.2f}"
         ),
         x=0.5,
@@ -637,7 +639,29 @@ bullet_state_widget = pn.widgets.Select(
     width=200,
 )
 
+map_occupations = sorted(
+    df_by_state_and_oc.index
+    .get_level_values("OCC_TITLE")
+    .unique()
+    .tolist()
+)
 
+# Put All Occupations first.
+map_occupations = (
+    ["All Occupations"]
+    + [
+        occupation
+        for occupation in map_occupations
+        if occupation != "All Occupations"
+    ]
+)
+
+map_occupation_widget = pn.widgets.Select(
+    name="Occupational group — map",
+    options=map_occupations,
+    value="All Occupations",
+    width=400,
+)
 # --------------------------------------------------
 # 4. Rendering helpers
 # --------------------------------------------------
@@ -737,7 +761,7 @@ boxplot_view = pn.bind(
 
 map_view = pn.bind(
     render_map,
-    occupation=occupation_widget,
+    occupation=map_occupation_widget,
     statistic=summary_stat_widget,
     map_measure=map_measure_widget,
 )
@@ -776,16 +800,19 @@ boxplot_section = pn.Column(
 
 map_section = pn.Column(
     "## 3. State wage summaries and employment concentration",
-    map_measure_widget,
+    pn.Row(
+        map_occupation_widget,
+        map_measure_widget,
+    ),
     (
-        "Use the shared occupational-group dropdown to select a group. "
-        "In Summary Statistic mode, the shared Summary Statistic "
-        "dropdown determines the map colors."
+        "Choose All Occupations for statewide estimates, "
+        "or select an individual occupational group. "
+        "The shared Summary Statistic controls the wage map."
     ),
     map_view,
     (
-        "Jobs per 1,000 measures occupational employment "
-        "concentration—not job vacancies."
+        "Jobs per 1,000 measures employment concentration, "
+        "not job vacancies."
     ),
     sizing_mode="stretch_width",
 )
