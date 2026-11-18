@@ -820,6 +820,7 @@ dashboard = pn.Column(
     "when its map measure is Summary Statistic. "
     "The occupational group controls Charts 3 and 4. "
     "Chart 2 has its own multiple-group selector."
+    "The summary stats used are averages and percentiles for hourly wages. "
     ),
 
     pn.layout.Divider(),
